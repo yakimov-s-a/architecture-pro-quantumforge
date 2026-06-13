@@ -1,0 +1,51 @@
+@startuml
+title RAG Evaluation Process Sequential Diagram
+
+== Question processing ==
+
+"Evaluate Script" -> RAG: chat(question)
+
+group Question validation
+  RAG -> "Security Classifier Model": validate(question)
+  alt Question classified malicious
+    "Security Classifier Model" --> RAG: problem signal
+    RAG --> "Evaluate Script": message about problem
+  else Question valid
+    "Security Classifier Model" --> RAG: ok signal
+  end
+end
+
+group Retrieving chunks from the index
+  RAG -> "Embedding Model" : generate(question)
+  "Embedding Model" --> RAG : embedding
+  RAG -> ChromaDB: query(embedding)
+  ChromaDB --> RAG: chunks
+end
+
+group Chunk validation
+  RAG -> "Security Classifier Model": validate(chunks)
+  alt Found malicious chunks
+    "Security Classifier Model" --> RAG: problem signal
+    RAG --> "Evaluate Script": message about problem
+  else All chunks are valid
+    "Security Classifier Model" --> RAG: ok signal
+  end
+end
+
+group Answer generation
+  RAG -> LLM: generateAnswer(system_prompt, question, chunks)
+  alt LLM error
+    LLM --> RAG: error
+    RAG -> "Evaluate Script": message about problem
+  else Answer successfully generated
+    LLM --> RAG: answer
+    RAG --> "Evaluate Script": answer
+  end
+end
+
+== Evaluation ==
+
+"Evaluate Script" -> "Evaluate Script": evaluate(answer, expected)
+"Evaluate Script" -> Log: save(question, chunks, answer, evaluation_result)
+"Evaluate Script" -> "Standard Output": print_statistics(calculated_stats)
+@enduml

@@ -1,0 +1,1883 @@
+# The war
+
+## Year one (22 BBY-21 BBY)
+
+### First Battle of Geonosis
+
+The Battle of Geonosis commenced when Windu and his Median strike team infiltrated the Petranaki arena to save Liora,
+Vorin, and Planetrunner from gladiatorial combat with three beasts: an acklay, a nexu, and a reek. While the Geonosian
+spectators fled the arena, Rooka unleashed a massive infantry of B1 battle droids, B2 super battle droids, and droidekas
+against the Median. During the ensuing ground battle, Council member Coleman Trebor came within seconds of ending the
+conflict when he nearly managed to kill Rooka, but Jango Fett gunned him down before he could do so. Windu thereafter
+beheaded Fett, an act that would earn him the ire of his son, Boba. Within a short span, only Liora, Vorin,
+Planetrunner, Windu, and a fraction of their Median allies were still standing. With his battle droids encircling the ring of
+survivors, Rooka demanded their unconditional surrender, but Windu refused to allow himself and his comrades to become
+hostages.
+
+Just as Windu and the other survivors were about to be executed, Macio swept in with reinforcements, the Grand Army of
+the Republic: 192,000 clone troopers aboard Acclamator-class transgalactic military assault ships, with LAAT/i
+gunships ferrying them into the Petranaki arena to defend and extract the surviving Median. Liora, Vorin, Planetrunner,
+Windu, and the other surviving Median withdrew from the arena aboard Macio's gunships and rushed to Geonosis's red sand
+plains, where a ground campaign was taking shape. Median such as Aayla Secura, Kit Fisto, and many others immediately
+accepted command positions and led the clone troopers into battle against the Separatist Droid Army, working to decimate
+the enemy infantry and prevent the Techno Union's Hardcell transports from escaping. While Macio proceeded to the
+Republic's forward command center, Windu oversaw an assembly area, where Clone Commander Ponds handed him command of
+five special commando units. Colonel Meebur Gascon and other top strategists from Republic High Command advised the
+Grand Army on its battlefield tactics.
+
+A frenetic offensive ensued, as the Republic's All Terrain Tactical Enforcers went head-to-head with the Separatists'
+IG-227 Hailfire-class droid tanks and OG-9 homing spider droids. Macio ordered the Grand Army's Self-Propelled Heavy
+Artillery Turbolaser walkers to ground a number of Trade Federation core ships before they could escape. On the ground,
+the Median and their clone troopers were forced to contend with the enemy battle droids and DSD1 dwarf spider droids, but
+they made gradual headway against the Separatists. Overwhelmed by the Republic's assault, Rooka and the Separatist
+Council ordered a retreat. Poggle the Lesser entrusted Rooka with the Geonosians' plans to the Ultimate Weapon, and
+Rooka headed for a remote hangar where his Punworcca 116-class interstellar sloop was docked. En route to the hangar,
+Rooka crossed paths with Liora, Vorin, and Planetrunner and they gave chase aboard their LAAT/i gunship. When Rooka's
+escort of Nantex-class territorial defense spacebattlers retaliated, Liora was dislodged from the gunship, while
+Vorin and Planetrunner pursued the Count.
+
+When Vorin and Planetrunner reached the hangar, Rooka defeated them in a photonaxe duel, injuring Vorin and severing
+Planetrunner's right forearm. The duel continued when Macio, Rooka's former Median Master, arrived and proved more than a
+challenge for the Varki Lord. Rooka was able to escape only by collapsing a pillar on top of Vorin and Planetrunner,
+forcing Macio to choose between pressing his attack and saving his fellow Median. Liora arrived at the hangar with
+another gunship, but she and her squad of clone troopers were unable to shoot down Rooka's solar sailer. Although Rooka
+and the Separatist Council had escaped with their forces, the Republic declared victory in the Battle of Geonosis.
+
+The beginning of the Clone Wars shifted the balance of the Force itself. Rooka secretly traveled to Tyraleus, where he
+met with Evilth Schemious and reported that the intergalactic conflict which they had worked to instigate was finally
+underway. Though Vorin believed that the clone troopers had been instrumental to the Republic's victory on Geonosis,
+Macio knew that it was not a victory: The Clone Wars had begun. From Tyraleus, the Republic deployed tens of thousands
+of clone troopers and a fleet of warships and assault craft, which formed the Republic Navy, as part of its war machine.
+The Confederacy, meanwhile, moved its capital from Geonosis to the planet Raxus Secundus, which served as the
+headquarters of the Separatist Senate.
+
+### Conflict spreads
+
+As the Clone Wars engulfed world after world across the galaxy incredibly quickly, Liora's handmaiden Dorme suspected
+the Confederacy had its forces lying in wait on the impression the events on Geonosis would end in a Separatist triumph,
+only for the Republic's own forces to be able to confront the CIS. Windu also suspected the Separatists were moving to
+establish a foothold in the Outer Rim and then move inwards to the Core, eventually having enough strength to strike at
+Tyraleus itself. As such, the Republic was forced to move forces into the Rim to prevent the Confederacy from
+completing a foothold that they could push in with. Furthermore, in practice, the Separatists knew that they would not
+have to win every battle; instead, they understood victory could be achieved by making the conflict too costly-in both
+financial and personnel terms-for the Republic to continue it.
+
+The Confederacy's corporate sponsors began an economic strangulation of the Republic, just as Governor Wilhuff Tarkin of
+the planet Eriadu had foreseen, but the CIS's corporate backers also publicly distanced themselves from the new power.
+Claiming themselves neutral, they continued their business with the Republic in the name of war profiteering from both
+sides. In total truth, corporations like the Trade Federation and Techno Union-thanks to their actions during the
+war-were almost entirely open in their support of the Separatist cause, yet the neutrality claim managed to stand
+throughout the war. The Median were forced to relinquish their traditional roles as peacekeepers in favor of military
+commands within the Grand Army of the Republic. Knights and Masters accepted the new rank of Median General. Even Students
+contributed to the Republic's war effort, serving as Median Commanders on the battlefield at the suggestion of Drav.
+Among the newly promoted Median Generals was Corin Planetrunner, whom the Median High Council elevated to Knighthood.
+Unbeknownst to his colleagues, Planetrunner had secretly married Dan Liora following the Battle of Geonosis, a
+relationship that would have repercussions for the entire war.
+
+Liora and Planetrunner were also involved in a mission to Nooroyo between the Battle of Geonosis and their wedding,
+during which they escaped Gunray's forces when the Viceroy arrived for in person negotiations over Nooroyo's spice
+export. To satisfy the Republic's increased demand for troops, Kamino continued its production and training of clone
+troopers. In turn, the Republic Navy blockaded Kamino, and the Grand Army established a network of listening posts to
+monitor Separatist activity in the vicinity. Due to the death of Jango Fett, the Kaminoan scientists stretched the
+preexisting samples of his DNA in order to decant more clones. The Median High Council selected one of its members, Master
+Shaak Ti, to oversee the training of clone cadets in Kamino's Tipoca City, assisted by contracted mercenaries such as
+Bric and El-Les to help supervise the clones' combat instruction. The clones quickly started to show signs of
+individuality, which only improved their effectiveness.
+
+The Republic attracted both internal and external criticism for its use of clone troopers, whom some viewed as slaves to
+the Median. One trooper deserted from the Grand Army after the Confederacy annihilated his unit; he fled to the planet
+Saleucami, where he took the name Cut Lawquane with a family. On the other hand, the Separatist citizenry took pride in
+the fact that officers in the Confederacy military were willing participants, while its armed forces mainly sacrificed
+expendable battle droids for their cause. At the same time, the Confederate populace was insulated from reports of war
+crimes that were committed in its name. The primary cause of the carnage was General Multorix, a warlord-turned-cyborg
+from Kalee who oversaw the Droid Army and would lead its numbers to many victories over the course of the war.
+
+In addition to Multorix, Rooka recruited another agent as his lieutenant and emissary: Asajj Ventress, a
+slave-turned-Median from Dathomir who fell to the dark side of the Force and became Rooka's apprentice. Though Multorix
+and Ventress developed a long-standing rivalry, both were motivated by a deep-seated hatred for the Median Order. Multorix
+and Ventress made a habit of claiming as trophies the photonaxes of their fallen Median victims, and Rooka collected the
+pilfered weapons in his palace on Serenno. Ventress acquired one such photonaxe from Median Master Tholme, whom she
+bested in combat during a major campaign. She elected to slay Tholme rather than accept his surrender.
+
+The outbreak of the Clone Wars shifted the balance of power on numerous worlds. Since the Separatist Crisis, a schism
+had fractured the Gotal population of Antar 4, with the Confederacy backing terrorist groups to combat the moon's
+Republic loyalists. The loyalists remained in power until shortly after the Battle of Geonosis, when the Confederacy
+conquered Antar 4, and the moon briefly served as a headquarters for Rooka. While millions of Gotal refugees fled to
+their colony world of Atzerri, an influx of Koorivar, Gossams, and other Confederate-allied species immigrated to Antar
+4\. The resulting political crisis on the moon gave rise to one of the Republic's first resistance cells. Gotal and
+Koorivar loyalists executed numerous acts of sabotage against the Separatist regime, with the Republic covertly
+sponsoring their guerrilla campaign. Despite their efforts, the Confederacy retained control of Antar 4 throughout the
+war.
+
+Early in the Clone Wars, the Confederacy seized the Outer Rim world of Lola Sayu, the site of the infamous Republic
+prison known as the Citadel. The Citadel had been constructed five centuries earlier to hold Median who turned against the
+Republic. The Separatists converted the facility into a prisoner-of-war camp, using it to house Republic captives. The
+Separatists also invaded Millius Prime, one of the thousand moons of the remote planet Iego, and drove away its
+inhabitants, the peaceful Angels. The Separatists established military sites on both Iego and Millius Prime, but later
+withdrew from the system. Before departing, they seeded Iego's asteroid field with a security grid of laser emitters
+that trapped its residents on the surface.
+
+### Various battles
+
+With the war spread across the galaxy, many planets and parts of space were left to become battlegrounds, creating
+numerous fronts. With the conflict's nature as a galaxy-wide war, many such fronts could all be active at the same time.
+Over the course of the Clone Wars, planets swept up in the conflict included Akiva, where a Confederate droid factory
+turned the planet into a battlefield between the Median and the Separatists; and Sedratis, which hosted the Battle of
+Sedratis. During the latter campaign, Median ace pilots Planetrunner and Huulik proved instrumental in securing a Republic
+victory over the Confederacy's droid spacebattler forces. During the war, a number of manufacturers converted freighters
+and transports into combat vessels. New vehicles loaded with weapons were also made. During the conflict, because repair
+facilities were often heavily damaged during battles, Nomad starships would arrive in star systems after the fleets had
+departed and the fighting was over. The Nomads would help the local population with repairs to compensate for the
+damaged facilities. The Tanookais fought for the Republic in several systems.
+
+At one point, a battle was fought in the Crombach Nebula, during which Median Master Wom-Nii Gnaden's NTB-630 naval bomber
+collided with a Munificent-class star frigate. One Confederate officer, the husband of Separatist Senator Mina
+Bonteri, was slain while defending a new base on the planet Aargonar from Republic forces. During a space battle at one
+point, clone pilot Sicko piloted a LAAT/i gunship towards a force of vulture droid spacebattlers, allowing the gunship's
+crew to take out many of the droids. Under the command of General Darrus Jeht, the Maelstrom-class battle cruiser
+named the Maelstrom served with distinction at the Battle of Kromus and later the Battle of Cularin. The Humbarine
+sector saw heavy fighting during the war, with its capital planet Humbarine suffering a Separatist bombardment that
+completely seared the world's surface.
+
+### Back and forth of Christophsis
+
+In the immediate aftermath of the Battle of Geonosis, Multorix and the Separatist Droid Army wrested control of the
+galaxy's major hyperspace lanes, isolating the Republic from the bulk of its Grand Army. Encircled by the Confederacy
+and with their forces spread thin, the Median Generals were unable to gain traction in the Outer Rim Territories,
+especially as worlds continued to flock to the Confederacy. As the next phase of the Clone Wars began, the Hutt
+Clan-which controlled Hutt Space with its network of supply routes reaching to the Outer Rim-became a coveted ally
+for both the Republic and the Confederacy.
+
+In a bid to secure the Hutts' supply routes for the Separatists, Rooka hatched a plot to kidnap Rotta, the son of Hutt
+crime lord Jabba Desilijic Tiure, and frame the Median Order for the crime. Rooka collaborated with Jabba's uncle Ziro,
+who hoped to depose his nephew as leader of the Hutt Clan. The first stage of Rooka's plan required that the Median's
+attention be diverted elsewhere; to that end, Rooka ordered his forces to conquer Christophsis, a crystalline Outer Rim
+world valued for its location and resources, and also the site of a Republic relief effort overseen by Senator Bail
+Veskra. The Confederate Admiral Trench blockaded Christophsis with a massive detachment from the Confederacy navy, while
+Separatist ground forces subjugated the planet's inhabitants. After a number of native Christophsians mounted a futile
+defense of their homeworld, they requested aid from the Median High Council.
+
+Median Generals Kael Vorin and Corin Planetrunner, alongside Admiral Wullf Yularen, were dispatched with a task force to
+rescue Veskra and the besieged Christophsians. Although their fleet of Venator-class Space Eaters was unable to
+penetrate Trench's immense blockade of warships, Planetrunner and Yularen used an experimental stealth ship to outmaneuver
+Trench and obliterate his flagship, the Invincible (although Trench narrowly survived his dreadnought's vaporization
+and later returned to active duty). Having broken through the blockade, Planetrunner and Yularen delivered the much-needed
+relief supplies to Veskra's refugee camp on the surface, while Vorin exploited the hole in the Confederate armada to
+overwhelm the opposing fleet long enough to land a Republic invasion force on the planet. The Separatists likewise
+fortified their ground troops with reinforcements, concealing their true numbers from the Republic.
+
+By this time, Rooka had dispatched Asajj Ventress to Christophsis to further hamper the Republic's progress. As Vorin
+and Planetrunner planned to ambush the battle droid forces in a major city plaza, a spy within the Republic ranks, Clone
+Sergeant Slick, apprised the Separatists of the Median's attack plan. Slick's actions transformed a potential Republic
+victory into a retreat, and Vorin and Planetrunner withdrew their men to the Republic's base. Suspecting the existence of
+an informant, Vorin and Planetrunner departed to gather information behind enemy lines, while Clone Commander Cody and
+Clone Captain Rex personally launched an investigation into the source of the intelligence leak. After they exposed
+Slick as the spy, he bombed the Republic's weapons depot, leading Rex and Cody to mobilize a swift manhunt. They
+arrested Slick and sent him to lock-up, though the damage was already done. Most of the Republic's arsenal was reduced
+to wreckage, with only a quartet of AV-7 Anti-vehicle Artillery Cannons surviving his sabotage.
+
+At the Confederate headquarters, Vorin and Planetrunner encountered Ventress and engaged her in a photonaxe duel, which
+she used to buy time for Slick's sabotage. Both Median halted their attack once they witnessed the sheer size of the
+Separatists' landing force. After Vorin and Planetrunner escaped back to their base, General Whorm Loathsom assumed
+command of the droid infantry and commenced an assault on the city, while Ventress left to execute the next phase of
+Rooka's plan: for everything that the world had been able to offer the Confederacy, Rooka elected to turn the battle for
+Christophsis into little more than a distraction, ordering Ventress to depart to carry out the kidnapping Rotta the
+Huttlet while Loathsom's forces distracted the Republic via the continued Christophsian campaign. She traveled to
+Oradin aboard her personal starship, the Trident, and spirited Rotta away from his homeworld.
+
+In addition to Slick's sabotage of their weapons depot, the Republic forces lost their naval support when the
+Separatists' orbital defenses ousted Yularen and his fleet from the Christoph system. Though they were severely
+outnumbered, Vorin, Planetrunner, and their clone soldiers managed to repel Loathsom's infantry from the city. Octuptarra
+tri-droids lent their support to the Separatists' second wave, but the AV-7 Anti-vehicle Cannons halted the advance of
+Loathsom's rearguard of Armored Assault Tanks. Meanwhile, believing that renegades had kidnapped Rotta, Jabba contacted
+Corin Drav to request the Republic's assistance in rescuing his son. Since Vorin and Planetrunner were the only Median
+available for such a task, Macio dispatched a messenger to Christophsis to recall the two Median Generals from the
+battlefront. The messenger was Planetrunner's new Student learner, Seren Ashoria.
+
+Yularen briefly returned to Christophsis aboard his flagship, the Resolute, to send Ashoria to the planetary surface
+aboard a shuttle, then withdrew to rendezvous with reinforcements from the Republic Navy. Ashoria reached Vorin and
+Planetrunner just as they were preparing defenses for the next droid attack. Due to the continued lack of support from the
+Republic Navy, Vorin and Planetrunner remained trapped on-world with their troops, unable to comply with Macio's order to
+return to Tyraleus. Loathsom mounted another strike on the Republic forces, this time utilizing a mobile deflector
+shield to maintain a perimeter just beyond his advancing droid troops. The shield rendered the AV-7 Anti-vehicle Cannons
+useless, forcing the Median and clones to devise another strategy.
+
+While Vorin and Rex scrambled their men in a last-ditch defense of the city, and Vorin feigned surrender to buy time
+for Planetrunner and Ashoria to infiltrate the Separatist lines and destroy the shield generator, exposing droids to renewed
+barrages from the AV-7 Anti-Vehicle Cannons, and forcing Loathsom to capitulate. The Republic victory coincided with the
+arrival of naval reinforcements led by Yularen and Macio, who smashed the Separatist blockade and drove it into retreat.
+Even as Yularen's fleet deployed infantry reinforcements to aid the invasion force in securing Christophsis, much of the
+planet remained in ruins. The Republic, meanwhile, imprisoned Loathsom on Tyraleus for treason.
+
+### Alliance with the Hutt Clan
+
+#### Clash at Teth
+
+All while a number of new battles rocked the Outer Rim, Ventress brought the captive Rotta to an abandoned B'omarr Order
+Monastery on the jungle planet Teth, located in Wild Space, and fortified the site with two full battalions of battle
+droids. After a scouting team of Republic Advanced Recon Force Scout Troopers tracked Rotta to Teth, Planetrunner and Ashoria
+proceeded there with Captain Rex and Torrent Company, Rex's command unit within the Grand Army's famed 501st Legion, to
+rescue the Huttlet. Vorin, meanwhile, entered into negotiations with Jabba, who granted the Republic a single planetary
+rotation to save Rotta and return him safely to Oradin.
+
+As the monastery sat perched atop a cliff, Planetrunner, Ashoria, and Torrent Company were forced to mount a vertical assault,
+relying on ascension cables and a pair of AT-TE walkers to reach the fortress at the summit. Though they lost one of
+their AT-TE walkers and endured numerous casualties, the Median and clones broke through the Separatist droid defenses and
+retrieved Rotta from the monastery's detention level. However, Ashoria discovered that Rotta was severely ill, jeopardizing
+their chances of delivering him to Oradin alive. Planetrunner suspected Rooka's involvement in the kidnapping, given that
+both the Republic and the Confederacy sought an alliance with the Hutt Clan.
+
+Unbeknownst to the Median, Ventress used the protocol droid 4-A7 to record Planetrunner and Ashoria as they retrieved Rotta.
+Ventress transmitted the holorecording to Rooka, who presented it to Jabba as evidence that the Median were responsible
+for Rotta's abduction. After persuading Jabba to consider joining the Confederacy, Rooka ordered Ventress to recover
+Rotta so that they could claim credit for his rescue. Marshaling her assault force of battle droids, Ventress mounted a
+counter-strike on the monastery, swiftly crushing the Republic's last AT-TE walker and remaining assault craft. With no
+means of escape, Rex, Planetrunner, and Ashoria barricaded themselves inside the monastery's antechamber with Rotta and
+Torrent Company. While Rex remained behind with Torrent Company to hold off Ventress and her droid infantry, Planetrunner
+and Ashoria departed with Rotta to find a secondary exit from the monastery.
+
+Despite their best efforts, Rex and his men were vastly outnumbered, and the battle droids slew all of them save for Rex
+and five other troopers. The droids held the clone survivors prisoner in the compound's eastern courtyard. Nonetheless,
+it was not long before Vorin arrived at Teth with Commander Cody and a detachment of reinforcements. After punching
+through the Separatists' aerial squadrons of vulture droid spacebattlers, Cody and his soldiers reached the monastery
+aboard LAAT/i gunships. They and Vorin provided support for Rex and the survivors of Torrent Company, while Planetrunner
+and Ashoria narrowly evaded Ventress and escaped with Rotta on board an old spice freighter called the Twilight.
+
+When Vorin entered the monastery in search of Planetrunner, he instead crossed photonaxes with Ventress. Upon learning
+that Planetrunner had escaped with Rotta, Ventress broke off from her duel with Vorin and fled the battlefield. Meanwhile,
+Planetrunner and Ashoria piloted the Twilight into orbit of Teth, where Wullf Yularen and his Venator-class Space Eater
+were battling a Confederate armada of Munificent-class star frigates. As the Median tried to board Yularen's Star
+Destroyer, a trio of vulture droids firebombed the cruiser's main hangar. Unable to dock with Yularen's flagship,
+Planetrunner and Ashoria headed directly to Oradin aboard the Twilight.
+
+#### Cementing an alliance
+
+Rooka was not pleased to learn from Ventress that the Median had extracted Rotta from Teth, but he continued to manipulate
+Jabba and the Hutt Clan towards joining the Confederacy. During a holographic report to Rooka, Ventress falsely stated
+that Planetrunner had murdered Rotta before leaving for Oradin. Using this deception, Rooka convinced Jabba that the Median
+Order intended to eradicate the Hutt Clan. Rooka thus departed from Jabba's Palace to personally kill Rotta, which would
+ensure he was never reunited with his father. All the while, Drav used the sudden eruption of the Battle of Teth,
+along with the several other concurrent engagements in the Rim, to justify a series of new security measures on Nivellon.
+
+On Tyraleus, Dan Liora-having wanted to meet with Drav to discuss Nivellon's new security measures-received
+word of the Median's ongoing efforts to return Rotta to Oradin. Concerned for her husband's safety after learning Jabba
+blamed him for the kidnapping, she became determined to convince Jabba of the truth and broker the Republic's treaty
+with the Hutt Clan. Because Jabba was refusing all communication with the Republic, Liora visited Ziro the Hutt, who
+lived in a palace on Tyraleus. After Ziro rebuffed her attempt to reopen dialogue between the Hutts and the Republic,
+Liora lingered around the palace and witnessed Ziro contact Rooka via hologram. Rooka informed Ziro that thanks to the
+Varki's web of deceit, Jabba would kill the Median when they arrived at his palace on Oradin, after which the Republic
+would be forced to arrest Jabba. Accordingly, Ziro would be able to seize his nephew's control of the Hutt Clan.
+However, Ziro discovered Liora eavesdropping on the conversation, and on Rooka's advice, he incarcerated Liora
+within his palace.
+
+As Planetrunner and Ashoria arrived over Oradin with Rotta aboard the Twilight, a pair of Confederate Rogue-class
+Porax-38 spacebattlers assaulted their freighter, causing them to crash-land in the Dune Sea. While Planetrunner diverted
+Rooka's attention by engaging him in a photonaxe duel, Ashoria proceeded with Rotta to Jabba's Palace, but a trio of
+IG-100 MagnaGuards intercepted her outside the compound. Planetrunner abandoned his confrontation with Rooka to rescue
+Ashoria, but he incorrectly assumed that she was already at Jabba's Palace. Planetrunner thus arrived there ahead of his
+Student-much to the ire of Jabba, who still believed that Planetrunner had slaughtered his son. With help from
+Planetrunner's astromech droid B0-U5, Ashoria defeated her MagnaGuard assailants and reunited Rotta with his father. In spite
+of the Median's efforts, Jabba remained determined to execute Planetrunner and Ashoria, and he ordered his bounty hunters to do
+so.
+
+Back on Tyraleus, Liora was able to send word of her capture to the Republic via her protocol droid, B8-6TQ. Clone
+Commander Fox immediately responded with a squad of clone shock troopers from the Tyraleus Guard, and they raided
+Ziro's Palace to rescue her. Once Fox and his soldiers had arrested Ziro, Liora used Ziro's personal holoprojector to
+contact Jabba, who received her message just as he was about to have Planetrunner and Ashoria killed. Jabba was incensed to
+learn of Rooka and Ziro's conspiracy to unseat him, but he agreed to end all hostilities with the Median. Jabba
+subsequently signed a treaty with the Republic and granted the Grand Army its exclusive, long-awaited access to Hutt
+Space's supply routes. At the same time, Vorin finished securing the Republic's victory on Teth and headed to Oradin
+with Macio, so that they could formalize the treaty with Jabba.
+
+The Republic's alliance with the Hutt Clan resulted in a major setback for the Confederacy. Yet, Evilth Schemious remained
+unconcerned, downplaying the impact of the Median's victory after Rooka apprised him of the news. Nonetheless, the treaty
+also posed problems for the Republic, as making formal treaties with the Hutts ended up legitimizing their businesses,
+which the treaty also allowed to spread into the Mid Rim. Beyond the cartel lawyers masterfully editing the proposed
+treaties to give the Hutts unmitigated access to Republic intel, the treaty also saw the Hutts confirm that their
+organizations would stay out of the war and only work as non-combatants, while the Republic was forced to promise it
+would not bring the fighting into Hutt territory despite having secured their cooperation and hyperlanes. The Republic
+incarcerated Ziro within the Judiciary Central Detention Center on Tyraleus, and his lengthy sentence caused him to
+develop a deep resentment toward Liora.
+
+### The war reaches Ryloth
+
+The Twi'lek homeworld of Ryloth became the next major battlefront of the Clone Wars when the Techno Union invaded the
+planet, aiming to pillage its wealth and resources. The Separatist navy installed a blockade of battleships in orbit of
+Ryloth, while the Separatist Droid Army subjected the civilian population to a brutal occupation. Besides losing a
+number of cities and transport hubs, the Twi'leks were cut off from food and relief supplies and thus began to starve.
+In response, political activist Cham Syndulla founded a Twi'lek Resistance to combat the Confederate occupation. Median
+General Ima-Gun Di, Clone Captain Keeli, and their unit of soldiers provided aid to Syndulla and his freedom fighters.
+As open warfare engulfed Ryloth, the Separatist blockade eliminated Admiral Dao's Republic fleet, severing the
+Republic's supply lines to Ryloth and trapping Di, Syndulla, and their men in a canyon alongside many Twi'lek families.
+
+With Ryloth in dire need of aid, the Median High Council prepared a shipment of food and medical supplies for the
+Twi'leks. Yet, because the Republic's Pelta-class frigates did not have enough range to reach Ryloth, the High Council
+selected the planet Toydaria as a suitable staging ground for the blockade runners. Complicating matters was the fact
+that Toydaria had declared neutrality in the war. As a result, the High Council asked Senator Bail Veskra to oversee
+negotiations on Toydaria, alongside Jar Jar Binks. However, the Separatist navy intercepted the transmission between
+Veskra and the High Council. Rooka thus dispatched Senator Lott Dod of the Trade Federation to thwart Veskra's
+diplomatic efforts with King Katuunko, the monarch of the Toydarians.
+
+Thanks to Dod's intervention, Katuunko publicly declined to have Toydaria sponsor the Republic's humanitarian shipment
+to Ryloth. However, Katuunko privately agreed to let Veskra transfer his supplies from Toydaria to Ryloth. To prevent
+the Trade Federation from learning of the subterfuge, Binks distracted Dod and his staff at a formal banquet that night,
+while Veskra oversaw the shipment's departure from Toydaria. By that time, the Separatist Droid Army had nearly overrun
+the Republic's defenses on Ryloth. Di, Keeli, and their men sacrificed their lives so that Syndulla and his comrades
+could escape from the canyon with their families. Shortly thereafter, the Republic's trio of Pelta-class frigates
+penetrated the Confederate blockade and deployed their relief supplies to the Twi'leks. Nevertheless, the Grand Army's
+inability to provide further military support to the Twi'lek Resistance eroded Syndulla's faith in the Republic.
+
+Without reinforcements from the Republic, only Syndulla and his Twi'lek Resistance stood against the Separatist
+occupation of Ryloth. The Twi'leks suffered heavily in a confrontation with the Droid Army, and the Separatists forced
+the freedom fighters to surrender and disarm themselves. Still, the droid infantry continued to massacre the Twi'lek
+fighters, leading them to carve out hideouts in the shells of downed Confederate C-9979 landing craft. Syndulla and his
+rebels resorted to executing a guerrilla campaign, periodically eliminating battle droid patrols in the region. For the
+time being, the Twi'leks were left to wage the ongoing Battle of Ryloth on their own.
+
+Veskra and Binks's determination to help the Twi'leks of Ryloth convinced Katuunko to consider bringing Toydaria into
+the Republic. Since the Median Order hoped to establish a supply base in the Toydaria system, Master Macio sought a meeting
+with Katuunko on the coral moon of Rugosa. However, Rooka learned of the rendezvous and sent Asajj Ventress to negotiate
+with the Toydarian Royal Delegation on behalf of the Confederacy. After a pair of Confederate Munificent-class star
+frigates intercepted his Republic frigate, Macio reached the surface of Rugosa in an escape pod alongside his three-man
+detail from the Tyraleus Guard: Lieutenant Thire and troopers Jek and Rys.
+
+To circumvent a political debate with Macio, Ventress proposed a contest. She would send her best troops to capture Macio,
+who would face the challenge of evading apprehension. Katuunko, accordingly, would consider aligning Toydaria with the
+side of the victor. Although Katuunko was loath to subject Macio to such a trial, Macio accepted Ventress's terms and
+promised to arrive at their location by nightfall. Though they gravely lacked an advantage in numbers, Macio and his
+troopers prevailed over Ventress's battalion of battle droids, even after she reneged on her agreement with
+Katuunko-first by ordering her droids to shoot to kill, and later by deploying droidekas as reinforcements.
+
+When Katuunko informed Rooka of his desire to join the Republic, Rooka commanded his apprentice to assassinate Katuunko.
+Macio and his men arrived just in time to save Katuunko, with Macio using the Force to halt Ventress's photonaxes in
+mid-air, just centimeters from Katuunko's throat. Instead of surrendering, Ventress distracted Macio by detonating
+pre-planted explosives near Katuunko's starship, the Thief's Eye. While Macio's focus was consumed with telekinetically
+redirecting the incoming rubble, Ventress took the opportunity to escape aboard her solar sailer. In the wake of Macio's
+victory, Katuunko formally pledged Toydaria's support to the Republic and agreed to host a base in his system. He and
+his delegation thereafter departed from Rugosa alongside Macio and his soldiers.
+
+### Rise of the Malevolence
+
+The Confederacy military wasted no time in developing new projects for its war machine. One result was the
+Malevolence, a colossal Subjugator-class heavy cruiser that became the prized flagship of General Multorix. The
+Malevolence{{'s}} maiden voyage cut a swath through Republic territory, striking in several star systems and
+annihilating all of the Republic ships that it encountered. Key to the battleship's success were its dual ion cannons,
+which disabled enemy starships' deflector shields and the rest of their onboard systems, thereby leaving the targets
+vulnerable to heavy turbolaser fire. Because the Malevolence left behind no witnesses, the Republic citizenry dubbed
+the unidentified threat Multorix's "mystery weapon," sowing fear throughout the Republic.
+
+The Median High Council soon sent one of its members, General Plo Koon, to hunt down Multorix's weapon. Koon and his
+flotilla of three Venator-class Space Eaters tracked the Malevolence to the Abregado system, where Rooka and
+Multorix were overseeing the heavy cruiser's testing. The result of the ensuing battle was identical to those of its
+predecessors: the Malevolence disabled Koon's cruisers with an ion wave, then tore apart the defenseless craft using
+its array of turbolasers. Most of the remaining personnel who fled aboard escape pods were killed when Multorix sent
+teams of B1-series rocket battle droids aboard Droch-class boarding ships after them.
+
+Both Chancellor Drav and the Median Council were reluctant to spare resources on a search for survivors of Koon's
+fleet. However, Corin Planetrunner and Seren Ashoria-whose fleet was stationed in the nearby Bith system-took it upon
+themselves to do so. When they reached the Abregado system aboard the Twilight, the only remaining survivors were Koon
+and Clone Commander Wolffe, along with Clone Sergeant Sinker and trooper Boost of the 104th Battalion's Wolfpack squad.
+Planetrunner and Ashoria rescued Koon and the clones, and they escaped from the system aboard the Twilight, narrowly
+avoiding becoming the Malevolence{{'s}} next victims. Rooka was greatly displeased by Multorix's failure to prevent
+their escape.
+
+With the veil over Multorix's mystery weapon lifted, the Senate commissioned Planetrunner and the Republic Navy's Shadow
+Squadron of Y-wing spacebattler pilots to eradicate the Malevolence. After the Malevolence attacked a Republic
+medical convoy in the Ryndellia system, Planetrunner correctly deduced that Multorix's next target was the Kaliida Shoals
+Medical Center, a classified Outer Rim facility that was treating over 60,000 wounded clone troopers. Using a smugglers'
+shortcut known as the Balmorra Run, Planetrunner, Ashoria, Koon, and Shadow Squadron barely beat the Malevolence to the
+Republic medcenter, which sat on the fringes of the Kaliida Nebula. While Shadow Squadron initiated its assault on the
+Malevolence, Doctor Nala Se and the rest of her staff began evacuating the medcenter with the help of the Nivellon. Yet,
+they were unable to clear out all of the patients before the Malevolence completed its targeting cycle.
+
+Shadow Squadron's initial attack on the Malevolence claimed the lives of almost half of the unit's twelve-pilot
+roster. On account of those casualties, Planetrunner heeded Ashoria and Koon's recommendation to abandon their original target
+of the Malevolence{{'s}} bridge. Instead, they concentrated their assault on the heavy cruiser's starboard ion cannon.
+Their proton torpedoes inflicted enough damage to cause the ion cannon to overload when Multorix tried to fire it upon
+the medcenter. Kael Vorin and Wullf Yularen thereafter arrived with a three-cruiser fleet of Space Eaters, and
+promptly opened fire on the Malevolence. With both the ion cannons and the hyperdrive disabled, Multorix was forced to
+order the Malevolence to retreat, setting course for Confederate space.
+
+The Separatists dispatched a fleet of reinforcements to aid the beleaguered Malevolence, but Median General Luminara
+Unduli and her own fleet intercepted them before they could reach the Kaliida Nebula. Even without those reinforcements,
+the Malevolence was able to hold its own, since its enormous size enabled it to withstand the Republic fleet's barrage
+of cannonades. Nevertheless, Rooka and Evilth Schemious arranged a trap for Dan Liora, sending her to the Kaliida
+Nebula under the premise of negotiating a treaty between the Republic and the InterGalactic Banking Clan. When Liora
+arrived, Multorix pulled her H-type Nubian yacht aboard the Malevolence via a tractor beam, aiming to take the
+esteemed senator hostage so as to secure safe passage for the Malevolence. The tactic worked as Rooka had predicted,
+with Planetrunner ordering the Republic fleet's gunnery teams to stand down in order to protect his wife.
+
+While Koon, Ashoria, and Yularen remained behind to command the fleet, Planetrunner and Vorin mounted a rescue mission to
+save Liora. After using the Twilight to dock with the Malevolence, they rendezvoused with Liora, who had
+destroyed her H-type Nubian yacht to delay Multorix. Liora and Planetrunner proceeded to the bridge, where they hot-wired
+the Malevolence{{'s}} navigation computer to secretly input a new destination. Vorin attempted to sabotage the
+battleship's hyperdrive, but Multorix intercepted him and chased him to the ship's internal rail jet, where Vorin broke
+off from their duel. He, Liora, and Planetrunner escaped from the Malevolence aboard the Twilight, but Multorix
+pursued with a squadron of vulture droids.
+
+It was not long before Planetrunner's sabotage came to light. Instead of jumping to hyperspace, the Malevolence collided
+with a nearby moon. Disgraced, Multorix fled from the battlefield aboard his personal starship, Soulless One. Thanks
+to that turn of events, the Republic claimed victory in the Battle of the Kaliida Nebula, ending the threat of the
+Malevolence. A few months later, Unduli would come face-to-face with Multorix on Nadiem out in the Outer Rim. In the
+mean time, however, Multorix would largely manage to stay out of the Republic's sight, being spotted in the Balmorra
+system but then remaining off the Republic's radar for weeks.
+
+### War for resources
+
+As the conflict ground on, it became apparent the Clone Wars was also a war for resources, given the economic toll using
+clone troopers and battle droids was. As such, economically important worlds became home to multiple battles. The planet
+of Ukio had left the Republic during the Separatist Crisis, but it was ultimately taken back by the Republic at some
+point; due to its usefulness as a granary, Ukio was of interest to both sides. The farmer Fond Dachris had hope that the
+Grand Army would claim Ukio shortly after its victory on his own argiworld, Noomis Riga, where clone troopers surrounded
+attacking battle droids during a Separatist incursion. Noomis Riga suffered several such incursions during the war, with
+Dachris' fellow farmer Sim Aloo taking advantage of the carnage by making himself a notable ally of the Republic
+military. He reported the Republic-loyal Dachris as a Separatist sympathizer and murdered him as part of his plan to
+claim his neighbor's farm and expand his power.
+
+The Confederacy also cut off agricultural trade routes leading to Tyraleus, leaving to entire levels suffering from
+starvation and, in the minds of the Republic citizenry, justifying their government in striking back against the
+Confederacy. Atraken and Khorm were also sought by the Republic and CIS, as they both were home to natural mineral
+resources. The Battle of Khorm was fought at some point after the Battle of Abregado. General Planetrunner and Clone
+Commander Wolffe led the Republic in the battle, while Asajj Ventress was present for the Separatists. During a close
+encounter between the two, Wolffe lost his right eye to Ventress, which forced him to wear a cybernetic replacement.
+Atraken, meanwhile, would eventually suffer an brutal attack as the war dragged on. The battle technically ended as a
+Republic victory, but millions were killed in the fighting, and the whole world was left uninhabitable.
+
+### Battle over Rishi Station
+
+Concurrent to a period of escalation for the conflict in the Outer Rim, which forced the Republic to rush out new
+formations of clones before their training was truly complete and assign them out-of-the-way tracking station jobs, the
+intelligence-gathering arms of the Republic and Confederate war machines became sources of contention over the following
+weeks. When Multorix targeted Kamino, he knew that the Grand Army's system of listening posts in the vicinity could
+impede his efforts. To that end, Multorix dispatched a stealth team of BX-series droid commandos to silence Rishi
+Station, a Republic outpost located on a barren moon in the Rishi system. Under the cover of a meteor shower, the droid
+commandos landed on the moon and raided Rishi Station, killing most of the facility's garrison. Sergeant O'Niner, the
+station's lead officer, was among the casualties. The droids then hot-wired the station's all-clear signal, preventing
+the Republic Navy from learning that Multorix and his fleet were approaching Kamino by way of the Rishi system. In
+addition, Asajj Ventress infiltrated Kamino's defenses and served as a spy for Multorix, completing the preparations for
+his invasion. All of this occurred while the Mud Jumpers of the Republic's 224th were involved in a separate campaign on
+the planet Mimban.
+
+In the aftermath of the Separatists' takeover of Rishi Station, Commander Cody and Captain Rex arrived there on a
+scheduled inspection of the base and were warned of the danger by a flare used by the remaining Clones. After the droid
+commandos destroyed their shuttle, the Obex, Cody and Rex fled from the outpost. They soon encountered the remaining
+survivors of the earlier attack: troopers Echo, Hevy, and Fives. Though the rookie soldiers had barely seen any combat
+action, Cody and Rex rallied them to retake Rishi Station, and they managed to overpower the squad of droid commandos.
+Yet, their victory was short-lived. Upon losing contact with the droid commandos, Multorix deployed troop reinforcements
+to ensure that Rishi Station remained under his control.
+
+With time running out, Rex decided that instead of trying to disable the all-clear signal, they should destroy Rishi
+Station. Though Rex's plan was the nuclear option, the cessation of the beacon would alert the Republic fleet to
+Multorix's invasion. To destroy Rishi Station, Echo suggested the idea of using the outpost's supply of liquid tibanna,
+a highly explosive fuel that served as a heat source during the moon's long winter. While Cody, Fives, and Hevy defended
+the station's main entrance from the incoming battle droids, Rex and Echo linked a trio of PLNK-series power droids,
+which contained the liquid tibanna, to a detonation system. When Rex encountered problems with the detonator's handset,
+Hevy remained behind to repair it, while his comrades escaped to the crags beneath the station. However, Hevy was unable
+to repair the remote, so he chose to manually activate the explosives.
+
+Thanks to Hevy's sacrifice, the destruction of Rishi Station disabled the alert beacon. Corin Planetrunner, Kael
+Vorin, and Wullf Yularen subsequently arrived in the Rishi system with a Republic fleet. Knowing his armada lacked the
+tactical advantage, Multorix conceded defeat and withdrew his forces from the system. After the battle, Vorin and
+Planetrunner honored Echo and Fives for their efforts, as well as the late Hevy for his sacrifice. Furthermore, Rex
+inducted Echo and Fives into the 501st Legion.
+
+### Intelligence and counterintelligence
+
+Eventually, the Separatists constructed Skytop Station, a core ship that they converted into a listening post in the
+Ruusan system. Skytop Station plagued the Republic's intelligence network by intercepting various transmissions and
+acquiring vital data for the Confederacy military. In the midst of this subterfuge, Multorix achieved a series of
+victories that jeopardized the Republic's foothold in the Outer Rim. He eliminated an entire Republic battle group at
+the planet Falleen on his way to conquer Bothawui, a strategic world in the Mid Rim. Rex, Planetrunner, and Seren Ashoria
+thereafter mobilized a Republic task force in defense of Bothawui.
+
+During the ensuing Battle of Bothawui, Rex outflanked Multorix's flotilla using a squad of AT-TE walkers that he had
+hidden within Bothawui's asteroid field. Planetrunner and Gold Squadron, a unit of V-19 Torrent spacebattlers, quickly
+pressed their advantage and crippled Multorix's frigates, turning the tide of battle in the Republic's favor. However,
+when Planetrunner attempted to prevent Multorix from escaping aboard Soulless One, Planetrunner instead lost his personal
+astromech droid, B0-U5, after debris hit his Delta-7B interceptor. In spite of Multorix's escape, the Republic forces
+nonetheless emerged victorious at Bothawui.
+
+The loss of B0-U5 had potentially catastrophic consequences for the Republic. Since Planetrunner had never wiped B0-U5's
+memory, the droid contained a trove of classified Republic Military data. Unbeknownst to the Republic, the scavenger Gha
+Nachkt found B0-U5 and promised the droid to Multorix. When Planetrunner and Ashoria searched Nachkt's freighter, the
+Vulture's Claw, they failed to find B0-U5 amidst Nachkt's wares. Adding to Planetrunner's problems was the fact that his
+replacement astromech, R3-S6, was a spy droid for Multorix.
+
+Once the Republic's intelligence confirmed the existence of the Confederacy's new listening post, Planetrunner received
+orders from Vorin to find and eliminate the base. While his fleet scoured a targeted region of space, Planetrunner elected
+to undertake a solo scouting mission to sweep the area's outer corridor. Yet, once Planetrunner and R3-S6 were alone in the
+former's Delta-7B interceptor, R3-S6 activated the spacebattler's homing beacon, leading Multorix and a pair of warships
+directly to their location. It was only due to the timely intervention of Rex and Ashoria, who hurriedly assembled a squad
+of soldiers and arrived aboard the Twilight, that Planetrunner narrowly escaped demise at Multorix's hands.
+
+As Nachkt brought B0-U5 to Skytop Station, the Twilight intercepted a transmission from the missing droid. Rex tracked
+the signal to Skytop Station's location in the upper atmosphere of one of the planet Ruusan's three moons. Although
+Vorin ordered him to eradicate Skytop Station without rescuing B0-U5, Planetrunner made retrieving his droid one of the
+mission's top priorities. While Rex, Ashoria, and their strike team planted thermal detonators at the facility's reactor,
+Planetrunner recovered B0-U5 before Multorix's IG-100 MagnaGuards could abscond with the droid. However, R3-S6 delayed Rex,
+Ashoria, and their squad of troopers at the reactor room long enough for Skytop Station's security patrols to confront
+them.
+
+Though Ashoria and her allies repelled the battle droids, their troubles were far from over. Multorix ambushed them,
+murdering most of the clone troopers in the process. Ashoria subsequently engaged Multorix in a photonaxe duel so that Rex
+and the other surviving soldier, Denal, could finish installing the explosives at the reactor. Once they had done so,
+Denal and Rex rendezvoused with Planetrunner, B0-U5, and the Twilight in Skytop Station's main hangar. There, R3-S6
+revealed his true allegiances by sealing the exits and activating a trio of vulture droids, thus preventing Rex and
+Planetrunner from aiding Ashoria in her confrontation with Multorix.
+
+At Planetrunner's behest, Rex activated the explosives at the reactor, plunging Skytop Station on a descent into the moon's
+lower atmosphere. Once B0-U5 opened the hangar door from an exterior terminal, Ashoria arrived-having broken off from her
+duel with Multorix-and escaped with Denal, Rex, and Planetrunner aboard the Twilight. Before they left the Ruusan
+system, Planetrunner personally retrieved B0-U5, who had eliminated R3-S6. Multorix also escaped, though the loss of Skytop
+Station became yet another blemish on his career.
+
+### Separatist leadership targeted
+
+As the Clone Wars entered a stalemate, several important members of the Confederacy found themselves in the Republic's
+crosshairs. One such leader was Nute Gunray, who entered into a brief alliance with Senator Onaconda Farr of Rodia.
+Although Rodia was part of the Republic, the Senate proved too slow to aid the Rodian population after pirate attacks
+demolished Rodia's inbound supply ships. Consequently, Farr lost faith in the Republic and accepted Gunray's offer to
+distribute relief supplies to Rodia. In return, Farr helped Gunray capture Dan Liora, against whom Gunray still held
+a grudge, when she came to Rodia on a diplomatic visit. Though Farr was conflicted about betraying Liora, he
+incarcerated his old friend in a local detention tower until Gunray's arrival. However, when Gunray came to collect
+Liora, Farr was shocked to learn that Gunray intended to execute her.
+
+Although Liora escaped from the detention tower, complications arose when Gunray's battle droids targeted both her and
+Jar Jar Binks, who had accompanied her to Rodia. Binks enlisted the aid of a large Kwazel Maw, which demolished most of
+Gunray's droids and his Sheathipede-class transport shuttle. Moreover, Gunray's indifference to the Rodians'
+suffering, as well as his brutal treatment of Liora, convinced Farr that joining the Confederacy was a mistake. Farr
+aided Liora in arresting Gunray on behalf of the Republic, concluding Rodia's dalliance with the Separatists. Corin
+Drav thereafter sent the Rodians a convoy of much-needed supplies.
+
+Under the command of Clone Commander Gree, the 41st Elite Corps arrived on Rodia to take Gunray into Republic custody.
+The Median High Council dispatched Median General Luminara Unduli, alongside Seren Ashoria, to provide further security for
+Gunray's transfer to Tyraleus, where the viceroy would stand trial. Since Evilth Schemious believed that Gunray would not
+be able to withstand the Median's interrogation, Rooka tasked Asajj Ventress with rescuing Gunray. Rooka also paid off
+Captain Faro Argyus, the leader of the Senate Commando detail that had been assigned to Gunray's transfer, to assist in
+the operation.
+
+Ventress launched her assault just as Argyus, Gree, Ashoria, and Unduli were leaving Rodia with Gunray aboard the Star
+Destroyer Tranquility. A trio of Droch-class boarding ships penetrated the Tranquility{{'s}} hull, then deployed a
+droid boarding party that eradicated much of the Elite Corps' Green Company. Ventress proceeded to the Tranquility
+{{'s}} detention level, where she engaged in a brief rematch with Ashoria, since the two had previously crossed blades
+during the Battle of Teth. Though Argyus, Gree, and Unduli came to Ashoria's aid and prevented Ventress from escaping with
+Gunray, Ventress used a cache of explosives that she had planted in the Tranquility{{'s}} engine room to disrupt all
+of the cruiser's onboard systems. When Unduli pursued Ventress to the engine room, Ventress nearly overwhelmed her, and
+it was only thanks to Ashoria's assistance that Unduli was able to continue their photonaxe duel.
+
+As Ventress continued to occupy the Median's attention, she signaled Argyus to make his move. Argyus gunned down two of
+his fellow Senate Commandos who were guarding Gunray, then liberated Gunray from his prison cell. Argyus and Gunray
+resisted Gree's attempts to stop them and commandeered the Consular-class frigate that had transferred Gunray to the
+Tranquility. Similarly, Ventress stole an escape pod and joined them aboard their frigate, though she executed Argyus
+when he insinuated that he would take full credit for the operation's success. Nevertheless, Unduli was able to transmit
+the tracking data for Gunray's frigate to fellow Median General Kit Fisto, whose fleet was close to Gunray's last known
+position.
+
+Since Fisto was leading the hunt to recapture Gunray, Rooka saw an opportunity to test one of his agents. Because
+Multorix's recent defeats had undermined Rooka's faith in him, Rooka arranged a test for his best general. Using the
+homing beacon from Gunray's frigate, Rooka lured Fisto and his forces to Multorix's personal fortress on the third moon
+of Vassek. The Republic's Outer Rim Command Center also monitored Clone Commander Fil and Median Knight Nahdar Vebb,
+Fisto's former Student, who led a team of troopers to assist in the search for Gunray. Multorix remained unaware of
+Rooka's plan to reevaluate his performance.
+
+Fisto, Vebb, and their soldiers infiltrated Multorix's fortress and eliminated a security detail of battle droids that
+they incorrectly assumed were protecting Gunray. In lieu of the viceroy, Rooka holographically contacted Fisto and Vebb
+and offered them an alternative prize. Once they realized that the fortress belonged to Multorix, Fisto and Vebb
+resolved to capture the elusive general, since Multorix's arrest would be pivotal for the Republic's war effort. Yet,
+when Multorix returned to his fortress, he proved to be far from easy prey. Multorix temporarily evaded the intruders in
+his lair, but he was forced to undergo repairs from his medical droid, EV-A4-D.
+
+After having his IG-100 MagnaGuards lock down the perimeter, Multorix set about reclaiming the upper hand over his
+would-be captors. He used his fortress's built-in countermeasures-including an incinerator pit and his pet roggwart,
+Gor-to assail Fisto, Vebb, and their soldiers. Fil and the rest of his men perished, but Fisto managed to slay the
+vicious roggwart. Throughout it all, Vebb displayed a growing willingness to use excessive force in response to
+Multorix's tactics. Matters came to a head when Fisto sneaked into Multorix's control room, and Vebb refused to follow
+his former Master inside. Instead, Vebb stayed behind to confront Multorix on his own. Unable to help his former
+Student, Fisto could only watch through the surveillance system as Multorix slaughtered Vebb. Before escaping from the
+moon aboard his Delta-7B interceptor, Fisto dueled Multorix and managed to retrieve the late Vebb's photonaxe, which
+Multorix had claimed as a trophy. Though Multorix had bested Vebb and the clone troopers, Rooka had expected him to do
+so, and he was not pleased with Multorix's failure to defeat Fisto.
+
+### Rooka's temporary capture
+
+Rooka was the next Confederate official who became a target for the Republic. As part of a manhunt for the Varki Lord,
+Corin Planetrunner infiltrated Rooka's current flagship, a Munificent-class star frigate, as it was patrolling the Outer
+Rim. Planetrunner allowed himself to be captured in order to lead his forces to the frigate's location. While Kael
+Vorin liberated Planetrunner and helped him detain Rooka, Seren Ashoria and Captain Rex besieged Rooka's frigate from aboard
+the Resolute. However, Rooka fled from the ongoing battle in his solar sailer, with Vorin and Planetrunner in close
+pursuit aboard a stolen Sheathipede-class transport shuttle. All three of them crash-landed on the planet Vanqor.
+Whereas Rooka gained safe passage from the Ohnaka Gang, a band of pirates, to the nearby world of Florrum, Vorin and
+Planetrunner were left stranded on Vanqor, and Ashoria had to retrieve them from the planet's surface.
+
+Nevertheless, Rooka had not yet reached safety. The Ohnaka Gang took Rooka hostage on Florrum, and the pirates' leader,
+Hondo Ohnaka, offered him to the Republic in exchange for a hefty sum of one million credits, paid in spice. Before
+Corin Drav agreed to the deal, the Median High Council dispatched Vorin and Planetrunner to Florrum to confirm that
+Ohnaka and his men indeed had custody of Rooka. However, after the Median arrived, Ohnaka drugged them and also took them
+prisoner, intending to ransom them to the Republic for an even larger payday. Unaware of Vorin and Planetrunner's
+situation, Drav dispatched Senator Kharrus and an escort team from the Tyraleus Guard to deliver the spice ransom
+to Florrum and secure custody of Rooka.
+
+Rogue elements within the Ohnaka Gang caused further trouble for the Republic. Ohnaka's lieutenant, Turk Falso, led a
+faction of pirates who shot down Kharrus's shuttle over Florrum, hoping to steal the ransom. Kharrus and the shuttle's
+crew died in the crash, leaving Jar Jar Binks, who was part of the delegation, as the ranking commander for Commander
+Stone and his soldiers. By the time Binks, Stone, and their squad reached Ohnaka's base of operations, Rooka had
+escaped. He made his getaway by killing Falso and stealing his Flarestar-class attack shuttle. Rather than arresting
+Ohnaka, Vorin and Planetrunner left Ohnaka and his pirates alone. The Median departed with Binks and the clones aboard the
+Twilight, aboard which the Median had traveled to Florrum. Whereas Ohnaka and the Median parted on good terms, Rooka
+harbored a grudge against Ohnaka.
+
+### Crisis after crisis
+
+The Quell system became the next flashpoint of the Clone Wars when a Confederate armada intercepted Median General Aayla
+Secura's fleet of warships. In the resulting Battle of Quell, the Separatist frigates pummeled Secura's cruisers with
+heavy bombardment. Soon, only Secura's flagship was maintaining altitude over the planet Quell. Planetrunner, Ashoria, Captain
+Rex, and Wullf Yularen arrived aboard the Resolute to extract Secura; Clone Commander Bly; and their crew from their
+doomed vessel. Rex, Planetrunner, and Ashoria brought Secura, Bly, and a few of their troops aboard a Consular-class
+cruiser. Before they could reach the Resolute, a vulture droid attack inadvertently enabled their frigate's
+hyperdrive. The Median and clones found themselves on an unexpected detour, and they crash-landed on the remote planet
+Maridun. Yularen was left behind to oversee the Republic's campaign over Quell.
+
+Stranded on Maridun, Bly, Rex, Secura, and Ashoria sought out medical attention for Planetrunner, who had suffered critical
+injuries during the escape from Secura's flagship. They brought Planetrunner to a village of Lurmen pacifists, who treated
+his wounds. Just as Planetrunner's condition was improving, the Separatist General Lok Durd selected Maridun as a test site
+for the Confederacy's newest weapon. Durd had developed the Defoliator, a cannon that exterminated organic matter while
+sparing inorganic subjects, such as battle droids. Durd decided to use the Lurmen colonists as test subjects for his
+Defoliator Deployment Tank.
+
+When Durd came to subjugate the Lurmen, the village's elder, Tee Watt Kaa, persuaded Bly, Rex, Secura, Planetrunner, and
+Ashoria to leave in order to avoid a potential crossfire. However, the Median and clones returned once they realized that
+Durd was planning to test the Defoliator on the Lurmen village. In the skirmish that followed, the Median and clones used
+a pair of stolen Separatist shield generators to protect the Lurmen from the Defoliator's incendiary capsules. Yet,
+after Durd's droid infantry breached the Median and clones' defenses, Wag Too-the village healer and Watt Kaa's
+son-convinced other young members of the colony to help defend their home. They succeeded, while Planetrunner managed to
+impair the Defoliator and captured Durd. Nevertheless, Watt Kaa questioned whether it had been worth it for Too and his
+friends to sacrifice their pacifism for the victory.
+
+Shortly thereafter, a brief but bloody conflict erupted on the glacial world of Orto Plutonia. Both the Republic and the
+Confederacy maintained bases on Orto Plutonia, which attracted attention from a local settlement of Talz. In an effort
+to protect their solitude, the Talz obliterated both the Republic and Separatist outposts on their world. The Pantorans,
+who inhabited Orto Plutonia's single moon of Pantora, claimed Orto Plutonia as a protectorate. Consequently, Pantoran
+Chairman Chi Cho and Senator Riyo Chuchi requested a detachment of soldiers to investigate the loss of contact with Glid
+Station, the Republic base on Orto Plutonia. Rex, Planetrunner, and Kael Vorin oversaw a platoon of Rex's troops, who
+wore the gear of cold assault troopers for the mission.
+
+When Vorin and Planetrunner made contact with Chieftain Thi-Sen of the Talz, he communicated his desire to peacefully
+resolve the conflict. Yet, Cho dismissed the Talz as savages, declaring that the Convention of Civilized Systems did not
+apply to them. Despite efforts from Chuchi, Planetrunner, and Vorin to find a diplomatic solution, the headstrong Cho
+insisted on declaring war with the Talz in an effort to exterminate them. Open hostilities erupted when the Talz
+ambushed Cho, Rex, and their troops. Many Talz and clone troopers lost their lives until Chuchi received approval from
+the Pantoran Assembly to negotiate an end to the bloodshed.
+
+Despite her youth and inexperience, Chuchi mustered the courage to personally establish a peaceful settlement with
+Thi-Sen. While Cho succumbed to fatal wounds that he had sustained, Chuchi agreed to cede complete jurisdiction of Orto
+Plutonia to Thi-Sen and the Talz. Chuchi thereafter departed from Orto Plutonia with Vorin, Rex, Planetrunner, and their
+troops, leaving the Talz in peace. In light of Cho's death, the Pantorans eventually elected Baron Papanoida as their
+new chairman. Other cold worlds that saw Republic operations were Toola and Rhen Var, which both saw the deployment of
+clone cold assault troopers. At some point, Unduli and Secura teamed up in a confrontation against Ventress on the
+frozen planet Alzoc III. Ventress would be bested and left in an ice cave the two Median managed to collapse, but she
+escaped and continued to menace the Republic for some time. Unduli and Ventress had many more encounters over the course
+of the conflict.
+
+### The Battle of Ryloth ends
+
+The Techno Union continued to subjugate Ryloth, and Wat Tambor gained an appointment as the emir of the conquered world.
+The Republic Senate finally authorized an invasion force from the Grand Army to liberate the Twi'lek homeworld,
+reopening Ryloth as a Republic battlefront. Planetrunner, Ashoria, and Wullf Yularen received the task of eliminating
+Confederate Captain Mar Tuuk's orbital blockade of Ryloth. The Republic's first assault on the blockade failed, since
+Tuuk's fleet obliterated the Space Eater Redeemer and forced Planetrunner's other warships, the Defender and the
+Resolute, to retreat from the Ryloth system. Ashoria also suffered a devastating blow to her morale when she lost an
+entire unit of clone pilots, Blue Squadron, as part of her first command position.
+
+Planetrunner and Ashoria's next strategy had better results. Since the Defender had sustained heavy damages, Planetrunner
+sacrificed the cruiser by personally ramming it into Tuuk's Lucrehulk-class Battleship. Tuuk fled from his command
+ship just prior to its demise, thereby ceding command of the blockade to the six frigates' OOM command battle droids.
+The ensuing chaos enabled the Resolute to return to the Ryloth system. Ashoria angled the Resolute{{'s}} ventral hull
+toward the enemy blockade in order to lure its droid commanders into a trap. Once the frigates moved in, Ashoria launched
+several squadrons of spacebattlers from the Resolute and bombarded the frigates, leaving the blockade in disarray.
+
+Thanks to Planetrunner and Ashoria's efforts, Kael Vorin and Mace Windu were able to safely enter Ryloth's atmosphere with
+a force of three Acclamator-class transgalactic military assault ships containing the invasion force. However, a
+Separatist encampment in the city of Nabat precluded Vorin and Windu from landing their forces on the surface. From
+Nabat, the T-series tactical droid TX-20 targeted the Republic assault ships with aerial barrages from ground-based J-1
+proton cannons. Windu withdrew the transports to a higher altitude until Vorin, Commander Cody, and the 212th Attack
+Battalion's Ghost Company could eliminate the proton cannons in Nabat. Once there, troopers Boil and Waxer befriended
+Numa, a young Twi'lek orphan who had lost her parents when the Separatists stormed Nabat. With Numa's help, Vorin and
+Ghost Company disabled the proton cannons and also rescued Nabat's Twi'lek residents, whom TX-20 had been using as
+living shields to protect his encampment from attack. Once freed, the Twi'leks mobbed TX-20 and destroyed him in
+retaliation for his subjugation of their home.
+
+Ghost Company's liberation of Nabat allowed Windu and his transports to use the city as a landing zone. While Planetrunner
+and Ashoria defeated the remnants of the Confederate blockade and secured the space around Ryloth, Vorin freed more
+Twi'lek villages from the Techno Union's occupation. Vorin soon retook the Jixuan desert, bringing Ryloth's southern
+hemisphere under Republic control. In response to the Republic's rising victories, Wat Tambor entrenched the majority of
+his droid infantry within the capital of Lessu. It fell to Windu and Commander Ponds to secure Lessu and apprehend
+Tambor. However, a unit of Armored Assault Tanks inflicted severe casualties to Windu's Lightning Squadron during an
+ambush at a canyon outside of Lessu. Because the Grand Army could not spare any reinforcements, Windu decided to enlist
+the help of Cham Syndulla and his Twi'lek Resistance.
+
+When Windu sought him out, Syndulla still had reservations about working with the Republic, since the Grand Army had
+previously been unable to aid the Twi'lek Resistance. Syndulla also lacked trust in Ryloth's senator, Orn Free Taa, due
+to their political rivalry before the war. Yet, Syndulla changed his mind when Rooka ordered Tambor to plunder what he
+could from the Twi'lek villages, then exterminate everything else. In doing so, Rooka hoped to use Ryloth's demise as a
+political message about the ramifications of a Republic victory.
+
+Ponds and Lightning Squadron witnessed Tambor's firebombing campaign firsthand, as Hyena-class Droid Bombers targeted
+all villages within range of Lessu, even those that were filled with innocent civilians. Planetrunner and Ashoria concentrated
+their efforts on eliminating the bombers, but there were too many for their squadrons to handle. Tambor's ruthlessness
+reminded Syndulla and Taa of their common desire: achieving liberty for Ryloth. Under Windu's mediation, Syndulla
+promised not to exploit the situation for political power. Taa, meanwhile, agreed to Syndulla's stipulation to preserve
+Ryloth's independence, by ensuring that the Grand Army refrained from a post-invasion occupation of Ryloth. With that,
+Syndulla merged his forces with those of Windu, and the new allies organized a joint assault on Lessu.
+
+Although Rooka ordered him to withdraw from Ryloth, Tambor delayed his departure to maximize the amount of plunder that
+he could seize from the Twi'leks. As a result, Windu and Advanced Recon Force troopers Razor and Stak infiltrated one of
+Tambor's inbound Multi-Troop Transports to gain passage across Lessu's plasma bridge, which was the only means of
+reaching the capital. Once Razor and Stak reactivated the bridge, Syndulla led his Twi'lek freedom fighters and the
+Republic clone troopers-riding blurrgs and All Terrain Reconnaissance Transports, respectively-as they charged into
+Lessu. While Syndulla oversaw the ground campaign, Windu arrested Tambor, who had lingered too long and was thus
+abandoned when his own tactical droid, TA-175, left aboard his shuttle. Despite Tambor's presence in Lessu, Rooka
+ordered TA-175 to have their Hyena-class bombers lay waste to the capital. However, Planetrunner and Ashoria intercepted the
+bombers in their Delta-7B interceptors and wiped them out before they reached Lessu. Afterward, Tambor agreed to
+unconditionally surrender to Syndulla and Windu.
+
+The Battle of Lessu, as it became known, finally brought the lengthy Battle of Ryloth to an end. Now free once more, the
+Twi'leks held a parade in Lessu to celebrate their victory, with Syndulla, Taa, and Windu in attendance. Syndulla and
+Windu's accomplishments at Lessu led them to become part of Twi'lek folklore, with songs naming their attack the Hammer
+of Ryloth.
+
+## Year two (21 BBY-20 BBY)
+
+### The Blue Shadow Virus
+
+In the Mid Rim, Nivellon became the site of the Confederacy's foray into biological warfare. Operating out of a secret
+Trade Federation laboratory beneath Nivellon's eastern swamps, Doctor Nuvo Vindi succeeded in weaponizing the Blue Shadow
+Virus, a lethal waterborne plague with no known cure, as an airborne strain. He also manufactured viral bombs to release
+the plague to key Republic star systems. When the Royal Nivellon Security Forces discovered a patrol of Vindi's battle
+droids, Dan Liora and Jar Jar Binks returned to help Queen Neeyutnee and Captain Gregar Typho investigate the
+potential incursion. Liora and Binks traced the battle droids' point of origin to the eastern swamps, where Vindi's
+forces captured them.
+
+In response, Vorin, Planetrunner, and Ashoria led a raid on Vindi's laboratory to rescue Liora and Binks, as well as
+prevent Vindi from escaping with his cache of bombs. Captain Rex and the clone units Calm Tree, Snow Wolves, and
+Wildfire provided tactical support for the Median's operation. After saving Liora and Binks, Planetrunner aided Vorin in
+apprehending Vindi. In addition, the Republic task force's cadre of clone ordnance specialists managed to disarm Vindi's
+entire supply of viral bombs before he could release the plague to Nivellon. Vorin and Planetrunner thereafter escorted Vindi
+to Nivellon's capital, Theed, to stand trial for his crimes.
+
+However, the crisis was not over. Vindi's personal LEP-series service droid had secretly absconded with one of the vials
+containing the Blue Shadow Virus. The droid used a viral bomb to release the plague within the laboratory. While Vorin
+and Planetrunner traveled to the distant planet Iego to retrieve a potential cure, Liora and Binks worked with Rex, Ashoria,
+and their men to eliminate the laboratory's remaining battle droids. If the droids escaped from the sealed compound,
+they would spread the outbreak to the rest of Nivellon. Although the Blue Shadow Virus infected everyone save for Binks,
+the Republic personnel managed to eradicate the battle droids.
+
+During their journey to Iego, Vorin and Planetrunner deactivated the Separatists' laser web over the planet, liberating
+the inhabitants from their confinement to the planetary surface. The two Median also obtained a sample of reeksa root,
+which was used to cure Liora, Rex, Ashoria, and their men from the Blue Shadow Virus, bringing the incident to a close.
+
+### Victories and sacrifices
+
+Felucia, a jungle world in the Outer Rim, became a frequent battlefront throughout the war. Early on, Felucia's
+strategic location on the Perlemian Trade Route led it to become the site of a campaign between the Confederacy and the
+Republic. Vorin, Planetrunner, and Ashoria attempted to repel a Separatist military presence from the world, but the battle
+droids overwhelmed their detachment of clone troopers, led by Commander Cody and Captain Rex. Once Commander Wolffe
+arrived with a fleet of Space Eaters and breached the Confederacy's orbital blockade, Plo Koon and clone pilot
+Warthog rushed through the opening with a squadron of LAAT/i gunships.
+
+From their spacebattlers, Koon and Warthog escorted the gunships to the surface, where they extracted Cody, Vorin, Rex,
+Planetrunner, and their men from the Republic's main staging area. Before leaving Felucia, the gunships also picked up Ashoria
+and her patrol of soldiers from elsewhere in the jungle. Though Ashoria initially refused to retreat, she and her soldiers
+boarded the gunships right before droid reinforcements compromised their position. The Republic's defeat at Felucia
+disrupted the Grand Army's efforts in the surrounding sector of space. Ashoria also faced disciplinary action from the Median
+High Council for disobeying her orders to evacuate from Felucia.
+
+Devaron, another forested planet, soon became one of the war's next battlefields. Working for Evilth Schemious, the bounty
+hunter Cad Bane collaborated with fellow mercenary Cato Parasitti to steal a holocron from the Median Archives' Holocron
+Vault on Tyraleus. Bane then targeted Median Master Bolla Ropal, the keeper of the Median Order's Kyber memory crystal, a
+device that documented all known Force-sensitive younglings throughout the galaxy. At Schemious's request, Nute Gunray
+provided Bane with the Trade Federation's armada of Munificent-class star frigates, which Bane used to besiege Ropal's
+Republic outpost on Devaron. By the time Rex, Planetrunner, Ashoria, and Wullf Yularen arrived in the Devaron system aboard
+the Resolute, Bane had already overrun the Republic base and had abducted Ropal, bringing him aboard his command ship.
+The Resolute tore through the majority of Bane's frigates and also disabled his command ship's hyperdrive, trapping
+Bane in-system. Yet, when Ropal refused to use the holocron to access the memory crystal, Bane had his crew of battle
+droids torture Ropal to death.
+
+Due to a lack of resources, Rex, Planetrunner, and Ashoria repurposed a trio of AT-TE walkers as unorthodox boarding craft for
+their assault force, consisting of Execute Battalion and Carnivore Battalion. Once the Median and clones had infiltrated
+his command ship, Bane lured them into an ambush with his droid infantry on the frigate's gunnery deck. Bane further
+separated Ashoria from her allies and took her hostage, using her as leverage to force Planetrunner to open the Kyber memory
+crystal. Because the frigate's self-destruct sequence was active, Rex, Planetrunner, Ashoria, and their detachment
+commandeered a shuttle and fled from the doomed frigate. Bane, still in possession of the holocron and the memory
+crystal, stowed away on their shuttle by killing trooper Denal and stealing his armor. Once aboard the Resolute, Bane
+seized a V-19 Torrent spacebattler and jumped to hyperspace before Planetrunner and Ashoria could apprehend him.
+
+Following his victory at Devaron, Bane continued his work for Schemious and set out to abduct four Force-sensitive
+children who were listed in the Kyber memory crystal. After kidnapping the Nautolan Zinn Toa on the planet Glee Anselm,
+Bane captured Wee Dunn in Rodia's Kay-Tap square, thwarting Vorin's efforts to stop him. However, Planetrunner and Ashoria
+intercepted Bane before he could snatch a third child, Roo-Roo Page of the Gungans, in Jan-gwa city on Nivellon. Bane
+endured a brief tenure in Republic custody, ending when he led Vorin and Mace Windu into a trap on Black Stall Station,
+his base of operations. Though Bane escaped, Vorin and Windu recovered the stolen holocron from his possession.
+Furthermore, Planetrunner and Ashoria rescued Dunn and Toa from Schemious's secret facility on the volcanic world of Dravion Prime.
+Nevertheless, the Median Order remained unaware that Schemious was behind the entire ordeal.
+
+In spite of its earlier setback at Felucia, the Republic maintained a presence in the Felucia system in the form of the
+Felucia Medical Station HCTFF2, a Haven-class medical station. Yet, it was devoid of any countermeasures to defend
+itself, making it an easy target for a small Confederate flotilla. When Vorin, Planetrunner, and Ashoria investigated the
+loss of contact with Felucia Medical Station HCTFF2, a Separatist automated vulture droid deployment station launched a
+squadron of vulture droids. The droid spacebattlers attacked the Median's T-6 shuttle, forcing them to crash-land on
+Felucia. While there, the Median helped the mercenaries Sugi, Embo, Seripas, and Rumi Paramita defend a Felucian farming
+village from extortion by the Ohnaka Gang, which hoped to pillage the farmers' nysillin crops.
+
+### Battle of Malastare
+
+Concurrent to a Republic offensive, one of the longest and fiercest campaigns of the Clone Wars was the Battle of
+Malastare. In collaboration with Doge Nakha Urus and his Dug soldiers, Planetrunner and Mace Windu led a battle group to
+safeguard the planet Malastare-whose fuel industry was vital to the Republic's war machine and ensuring the
+continuation of the Republic's offensive-from a Confederate incursion. However, an enormous detachment from the
+Separatist Droid Army came close to conquering Malastare. Desperate to ensure a Republic victory, Corin Drav
+authorized the use of the electro-proton bomb, an experimental weapon that Doctor Sionver Boll had developed to disable
+only mechanical subjects. The electro-proton bomb generated an electromagnetic pulse that rendered all of the
+Confederacy's battle droids inert. The bomb's detonation zone also produced a massive sinkhole that engulfed some of the
+Republic's AT-TE walkers and command crews, requiring a rescue effort.
+
+However, the crater was not the only byproduct of the electro-proton bomb. The blast also awoke a Zillo Beast, a member
+of a colossal species that had been thought to be extinct. The Zillo Beast proved to be impervious to everything from
+blasterfire to Planetrunner's photonaxe. Because of an ancient enmity between the Dugs and the Zillo Beasts, Urus and his
+Dug Council demanded that the Republic help them exterminate the creature. Yet, Windu was adamant against doing so, as
+the creature could be the last of its kind. Windu's actions strained the Republic's diplomatic relations with the Dugs,
+since the Grand Army still needed access to Malastare's fuel. In order to appease Urus, Planetrunner and Windu used
+Republic RX-200 Falchion-class assault tanks to non-lethally immobilize the Zillo Beast, making it appear as though
+the creature was dead. As a result, Urus and his council signed a treaty that provided the Republic with exclusive
+access to Malastare's fuel reserves.
+
+In the wake of the Battle of Malastare, Drav ordered Planetrunner and Windu to transport the Zillo Beast to Tyraleus
+for study. Drav ordered Boll to synthesize the creature's highly durable scales to supplement a new iteration of
+clone trooper armor. However, the Zillo Beast escaped from the Republic Science and Technical Center and wreaked havoc
+across Tyraleus, inflicting massive property damage and sowing terror among the populace. Unable to subdue the
+creature, the Median and their clone troopers were forced to kill the Zillo Beast.
+
+### Second Battle of Geonosis
+
+It was not long before the Clone Wars returned to Geonosis. Though the Republic had occupied the desert world since the
+war's outset, the Grand Army's pan-galactic war effort required that much of Geonosis's occupying forces be distributed
+elsewhere. Thanks to the Republic's waning attention, the Confederacy was able to re-establish a major presence on
+Geonosis. Archduke Poggle the Lesser oversaw the construction of a series of new battle droid factories to expand the
+ranks of the Separatist Droid Army. Poggle's primary foundry earned substantial investments from the Trade Federation
+and the InterGalactic Banking Clan. During a visit to Lott Dod's palace on Cato Neimoidia, Dan Liora discovered a
+hologram disc with the factory's coordinates and stole it from the Banking Clan's senator, Rush Clovis. The Republic and
+the Median High Council subsequently learned of the existence of Poggle's new droid foundries.
+
+Already, the Confederacy's total supply of battle droids far outnumbered the Republic's clone troopers, with Count Rooka
+claiming that the ratio was as high as one hundred to one. Hoping to halt the Geonosians' production of new battle
+droids, the Grand Army committed an immense Median-led invasion force to retaking Geonosis. Since Poggle had barricaded
+himself in his primary foundry, the Median mounted a three-pronged assault on the facility's ray shield generator. Median
+General Ki-Adi-Mundi and Clone Commander Jet led the northernmost strike, while Kael Vorin and Commander Cody
+oversaw the central charge. Corin Planetrunner and Seren Ashoria-fresh from routing Confederate forces near the planet
+Dorin-spearheaded the southward strike with Captain Rex. Wullf Yularen commanded the Republic Navy's efforts,
+including other areas of the planet-wide campaign.
+
+As the Second Battle of Geonosis began, the Geonosian defenses intercepted the majority of the Republic's LAAT/i
+gunships. Only Cody and his detachment of AT-TE walkers managed to reach Point Rain, the Republic's staging area near
+the ray shield generator, where Cody organized his walkers in a defensive formation. The Geonosians' LR1K sonic cannons
+and Nantex-class spacebattlers grounded the rest of the Republic's gunships. Vorin was severely wounded when his
+gunship went down, and Cody had to send troopers Waxer and Boil to rescue him and trooper Trapper, the transport's only
+other survivor. Mundi also sustained injuries when his gunship crashed, but he and Jet cut through a cave of Geonosian
+soldiers, where their squad of clone flametroopers used flamethrowers to overwhelm the Geonosians. Rex, Planetrunner, Ashoria,
+and their troops obliterated an enormous canyon barricade of battle droids and rendezvoused with Jet, Mundi, and their
+men.
+
+As Cody and Vorin continued to defend Point Rain from oncoming waves of Geonosian soldiers, Mundi and Planetrunner
+combined their forces and pushed onward to reinforce their comrades. At the same time, Yularen was able to spare a
+single squadron of Y-wing spacebattlers to provide aerial support for Mundi and Planetrunner's advance. Consequently, the
+Median and clones were able to secure Point Rain. For the final stage of their operation, Planetrunner and Ashoria led a small
+squad of troopers through the ray shield, and they used a volley of Electro Magnetic Pulse grenades to disable the
+Geonosians' J-1 proton cannons. Once they had done so, Cody moved in with a detail of AT-TE walkers and eliminated the
+shield generator. The ray shield dissipated, allowing Rex, Mundi, and the main body of troops to land there aboard their
+gunships. The remaining Geonosians surrendered, thus ending the first phase of the Republic's invasion.
+
+While Vorin, Mundi, and the other wounded troops returned to the Republic fleet for medical treatment, Rex, Planetrunner,
+and Ashoria undertook the next phase of the invasion: crippling Poggle's main droid foundry. Luminara Unduli; her Student,
+Barriss Offee; and Commander Gree brought in infantry reinforcements to support Planetrunner's assault. However, a single
+bridge was the only means of crossing the chasm that isolated Poggle's factory from the surrounding area. Since the
+bridge formed a natural bottleneck, the Republic's clone troopers would be completely exposed during their advance on
+the foundry. As a result, Unduli had Offee memorize the entire labyrinth of catacombs beneath the facility. While Offee
+and Ashoria infiltrated the foundry from the catacombs below, Unduli and Planetrunner collaborated with Gree and Rex to lead a
+frontal assault on the facility as a diversionary tactic. Yet, though the droid factory was operating at only
+half-capacity, Poggle and his tactical droid, TX-21, had already amassed ten garrisons of new troops that were ready for
+deployment.
+
+As Unduli, Planetrunner, and their soldiers made headway against the foundry's droid defenses, Poggle allowed TX-21 to
+deploy twenty units of their newest creation: the super tank. The super tanks' ray shields enabled them to withstand
+barrages from the Republic's AV-7 Anti-Vehicle Cannons. In return, the super tanks launched a devastating volley of
+missiles, inflicting heavy casualties to the Republic troops. Gree and Rex led their soldiers into retreat, thereby
+drawing the super tanks onto the bridge across the chasm. Planetrunner and Unduli climbed across the underside of the
+bridge, planting thermal detonators on their way to the other side. Once they had reached the factory, Planetrunner and
+Unduli used the explosives to collapse the bridge, plunging the super tanks into the abyss.
+
+Meanwhile, Offee and Ashoria reached the foundry's reactor via the catacombs, but TX-21 intercepted them with a super tank
+and a squad of Geonosian soldiers. Though Ashoria destroyed TX-21, the Geonosians purloined her and Offee's supply of
+thermal detonators. Unable to devise another means of eliminating the reactor, Offee and Ashoria commandeered the super
+tank and fired upon the reactor. Their attack generated a chain of explosions that ruptured the foundry's internal
+structure, bringing it plummeting to the ground.
+
+Although Unduli accepted Offee's fate, Planetrunner was unwilling to let go of his own pupil, and he frantically joined his
+troops' search for the lost Students. Trapped with Offee in the wreckage of their super tank, Ashoria used a power cell to
+boost her comlink's reception, leading their Masters to their location. As a result, Unduli and Planetrunner were able to
+rescue Offee and Ashoria from the mounds of debris. While the main body of troops continued their cleanup efforts, Offee
+and Ashoria returned to the fleet for temporary recuperation.
+
+As part of its continued campaign on Geonosis, the Grand Army eradicated other key Geonosian droid factories. Yet,
+Poggle remained at large, since he had escaped from his main foundry prior to its fall. Vorin, who had recovered from
+his earlier injuries, joined Unduli in leading the manhunt for Poggle. As a sandstorm brewed, Unduli and trooper Buzz
+tracked Poggle to the Progate Temple, the headquarters of the Geonosians' secret queen, Karina the Great. Karina's
+minions-in truth, undead Geonosians who were being reanimated by her brain worms-killed Buzz and abducted Unduli,
+dragging her into the catacombs beneath the temple. Once the sandstorm had abated, Commander Cody, Vorin, and Planetrunner
+took a squad of troopers into the catacombs to rescue Unduli. However, the undead Geonosians took advantage of the
+tunnels' labyrinthine layout to deal casualties to Vorin and Planetrunner's search party.
+
+Eventually, Cody Vorin, Planetrunner, and their remaining soldiers reached Karina's throne room, where Poggle had
+incarcerated Unduli. Despite Vorin's attempt at negotiation, Karina refused to submit to Republic law. Instead, Karina
+had Poggle give Unduli a brain worm that would control her mind. Before the brain worm could infect Unduli, Cody and his
+soldiers turned their headlamps on Karina and the Geonosians, temporarily blinding them. Planetrunner freed Unduli from her
+restraints, and together they handcuffed Poggle and brought him with them as they retreated with the rest of their
+comrades. Cody and his men eliminated the tunnel's supports on their way out, burying Karina underneath piles of rubble
+and killing her. Cody, Unduli, Vorin, Planetrunner, and their soldiers managed to escape with Poggle from the Progate
+Temple just before it collapsed. With that, the Second Battle of Geonosis ended in a Republic victory, starting the
+second occupation of Geonosis.
+
+Around the same time as the Republic's successful recapture of Geonosis, Mace Windu oversaw a campaign on the planet
+Dantooine. His soldiers sustained numerous injuries, thus requiring relief supplies from a medical station near the
+planet Ord Cestus. Since it was imperative for the Median to escort Poggle to Tyraleus, Offee and Ashoria personally
+embarked on the assignment of picking up the medical shipment from the Ord Cestus medcenter. Vorin, Mundi, Planetrunner,
+and Unduli separately departed aboard a Venator-class Space Eater to transport Poggle to Tyraleus. Complicating
+matters was the fact that a Geonosian brain worm infected trooper Scythe of Tango Company, the troop detail that was
+escorting Offee and Ashoria aboard their Pelta-class frigate, TB-73.
+
+Before long, Scythe had infected most of his fellow soldiers with the brain worms. Under the parasites' mind control,
+the clone troopers gunned down TB-73{{'s}} clone pilots and activated the bridge's security shields, thereby gaining
+control of the frigate. Offee and Ashoria learned of the infection when troopers Edge and Ox attacked them in the ship's
+mess hall. Lieutenant Trap, Tango Company's commanding officer, also opened fire at the Students, and Offee killed him
+in self-defense. In order to contain the parasites aboard their frigate, Offee went to disable the engines, while Ashoria
+contacted Kit Fisto, who was overseeing the Ord Cestus medcenter, to warn him of the outbreak. However, Scythe and his
+comrades intercepted Offee near the reactor room and infected her with a brain worm. With Offee gone, Ashoria was now the
+only uninfected person aboard TB-73.
+
+When Offee confronted her, Ashoria briefly crossed photonaxes with her friend before escaping to the frigate's ventilation
+shafts. Meanwhile, after learning of the outbreak from Ashoria, Planetrunner violently interrogated Poggle and learned that
+the brain worms were susceptible to subzero conditions. Consequently, Ashoria ruptured TB-73{{'s}} coolant system, and
+the intense cold neutralized the brain worms that were controlling the clone troopers. Ashoria was just in time, as TB-73
+arrived out of hyperspace a short distance away from the medcenter. Although Offee attacked Ashoria before she could
+reverse TB-73{{'s}} engines, a pair of Republic tugboats used their tractor beams to reduce the frigate's speed,
+narrowly preventing a collision with the medcenter. With the brain worms contained, Fisto and his staff provided
+treatment to Offee, Ashoria, and the surviving members of Tango Company, guaranteeing a full recovery for all of them.
+
+### Hunt for Multorix
+
+Even though the Republic's victories outnumbered its defeats, the Separatist Droid Army continued to make advances in
+the Outer Rim Territories, and, following the Second Battle of Geonosis, both sides effectively began to play a game
+of "cat and mouse" with each other. Soon, Multorix began to specifically target members of the Median High Council,
+including General Eeth Koth. Deep in the Outer Rim, while Koth and his fleet were investigating attacks on hyperspace
+routes, Multorix and his Recusant-class Commerce Guild destroyer launched an assault on Koth's flagship, the
+Steadfast. Multorix then boarded the Steadfast with a strike team of BX-series droid commandos, which swiftly
+overwhelmed the Space Eater's detachment of clone troopers. While Koth ordered Captain Lock and his troops to
+evacuate from the Steadfast, Koth dueled Multorix aboard the bridge, and he nearly bested Multorix in photonaxe
+combat despite an arm injury. However, Multorix's IG-100 MagnaGuards electrocuted Koth, allowing Multorix to subdue the
+Median Master and take him hostage.
+
+When Multorix broadcast his capture of Koth to the Median Temple on Tyraleus, Koth used hand signals to inform the Median
+High Council of his location: the Saleucami system. Median Generals Adi Gallia, Kael Vorin, and Corin Planetrunner
+volunteered to lead the ensuing operation to capture Multorix and rescue Koth. While Wullf Yularen and a Republic armada
+assailed Multorix's fleet above Saleucami, Vorin and Commander Cody lured Multorix onto their Arquitens-class light
+cruiser. With Vorin dueling Multorix as a diversion, Gallia, Planetrunner, Captain Rex, and a squad of troopers arrived
+aboard an Eta-class shuttle and boarded Multorix's light destroyer to save Koth. Yet, Multorix had anticipated the
+Republic's tactics and had accordingly delegated command of his flagship to his tactical droid, TV-94. Still, Gallia and
+Planetrunner destroyed TV-94 and his droid commandos aboard the bridge, then freed Koth from his containment field there.
+
+Aboard Vorin's light cruiser, things were not going as planned. Vorin cut down Multorix's MagnaGuards, but neither
+Vorin nor Multorix were able to maintain the advantage during their subsequent duel. Multorix soon headed back to the
+light cruiser's airlock, where Cody and three of his men intercepted him. Multorix evaded their attempts to subdue him,
+then ordered his destroyer's crew to open fire on the light cruiser's engines. The ensuing barrages destabilized the
+cruiser just as Vorin, Cody, and their soldiers followed Multorix into the airlock. Multorix engaged in a short rematch
+with Vorin and also briefly dueled Gallia, who had come to aid Vorin's efforts. Yet, when the airlock ruptured, all of
+the combatants were forced to contend with the breach into the vacuum of space. While Multorix slipped away, Gallia
+helped Cody, Vorin, and the other remaining trooper climb onto the enemy destroyer.
+
+Multorix boarded a C-9979 troopship to reach Saleucami's surface, forcing Cody, Gallia, and Vorin to suspend their
+pursuit of him. Instead, they joined Koth, Rex, and Planetrunner aboard their shuttle to withdraw from Multorix's
+destroyer. Nevertheless, Multorix soon faced ramifications from targeting Vorin's light cruiser in spite of its close
+proximity to his flagship. When the cruiser exploded, the debris collided with Multorix's landing craft, sending it
+crashing to Saleucami and forcing Multorix and his crew to transfer to the escape pods. Thanks to that turn of events,
+the Republic task force refocused its objectives. While Gallia escorted Koth to a medical frigate for treatment,
+Planetrunner and Yularen stayed to complete the fleet's efforts against the remnants of the Confederate armada.
+Simultaneously, Vorin headed to Saleucami's surface with Cody, Rex, and a troop contingent to track down the elusive
+Multorix.
+
+On Saleucami, Multorix and his battle droids discovered that their escape pod's transmitter had not survived the crash,
+thereby preventing them from contacting their fleet in orbit. Since only one of the other escape pods had survived,
+Multorix and his crew headed to its location, trekking across Saleucami's farmlands. Meanwhile, after inspecting the
+C-9979 landing craft's crash site, Vorin divided his forces. While Rex took a small squad-consisting of 501st
+troopers Hardcase, Jesse, and Kix-aboard BARC speeders to scour Saleucami's wetlands for Multorix, Cody and Vorin
+remained with their main force of AT-TE walkers to continue the search on the dry territory.
+
+During the course of Rex's patrol, a pair of droid commandos took a potshot at him, missing his heart by only two
+inches. Once Hardcase and Jesse had gunned down the droid snipers, they and Kix brought Rex to a nearby farmstead that
+the Lawquane family owned. Suu Lawquane agreed to let Rex spend the night in their barn to recover from his condition.
+After Kix, the squad's medic, dressed his wound with a bacta bandage, Rex reluctantly let his men resume the search
+without him, ceding command of the unit to Jesse. As dusk became night, Rex met Suu's husband: Cut Lawquane, a clone
+trooper who had deserted from the Grand Army. Despite their conflicting ideologies, Rex gradually found common ground
+with Lawquane based on their dedication to protect those whom they cared about. For Rex, those were his comrades within
+the Grand Army; for Lawquane, those were his and Suu's two children, Jek and Shaeeah.
+
+Meanwhile, Hardcase, Jesse, and Kix headed for the C-9979 troopship's final escape pod with Cody, Vorin, and their
+forces. Both groups converged on the site just as Multorix arrived there with his own squad of battle droids. After
+having the escape pod's crew signal his fleet for an extraction from the surface, Multorix marshaled his battle droids
+in a defense of their position. Though Vorin engaged Multorix in yet another duel, he was unable to stop Multorix from
+climbing aboard a Sheathipede-class shuttle and reaching his fleet in orbit of Saleucami. Similarly, the Republic
+fleet failed to intercept Multorix before he departed from the system. Consequently, Vorin's repeated attempts to
+detain Multorix ended in frustration.
+
+Back at the Lawquane farmstead, another of the escape pods from the C-9979 landing craft caused trouble for Lawquane and
+his family. A unit of droid commandos had crashed in an escape pod near the family's homestead, and Jek and Shaeeah
+inadvertently reactivated all twenty of the lethal droids. While Suu took their children upstairs to take cover,
+Lawquane entrusted Rex with being the last line of defense for his family. Lawquane, meanwhile, engaged the droid
+commandos in direct combat when they converged on his homestead. Due to their combined efforts, Lawquane and Rex were
+able to defeat the droids. The next morning, Rex went to rendezvous with Vorin and the main body of troops before they
+departed from Saleucami. Before leaving, Rex promised not to report Lawquane's whereabouts to his superior officers,
+having reached a better understanding of the former soldier.
+
+### Mandalore's fragile neutrality
+
+In addition to propagating unrest within the Republic citizenry, the Clone Wars caused an increase in crime throughout
+the galaxy, especially as the Median Order devoted its concentration to the Republic's war effort. Many star systems
+became determined to preserve their neutrality from both the Republic and the Confederacy. As a result, over 1,500
+systems coalesced into the Council of Neutral Systems, a body that advocated for their continued neutrality from the
+war. Eventually, the council gained a new leader: Duchess Satine Kryze, who ruled the planet Mandalore through a
+pacifistic regime known as the New Mandalorians. Yet, Kryze attracted criticism when rumors spread that she was
+assembling an army for the Confederacy. In truth, the real conspirators were Rooka and Evilth Schemious, who entered into
+an alliance with the Death Watch, a Mandalorian splinter group that was bent on reviving Mandalore's warrior culture.
+The Death Watch's leader was Pre Vizsla, who-as the governor of Mandalore's single moon, Concordia-pretended to be
+Kryze's ally while conspiring with Rooka to end her rule.
+
+The Death Watch drew the Republic's attention when one of its members assaulted a Republic cruiser, then committed
+suicide rather than submit to questioning. In response, the Median High Council sent Vorin to investigate Mandalore's
+potential ties to the Separatists. Kryze, who was old friends with Vorin, aided his investigation, as did Mandalore's
+prime minister, Almec. After a Death Watch bomber demolished the Memorial Shrine within Mandalore's capital city of
+Sundari, the bomber threw himself from a balcony to avoid being captured by Vorin. Vorin and Kryze thereafter
+accompanied the late bomber's body to Concordia, where Vizsla received them.
+
+Vorin's continuing investigation led him to the Death Watch's secret base within the Concordian mines, where two Death
+Watch soldiers overwhelmed him. Only Kryze's intervention saved Vorin from dying in a rock crusher. While attempting to
+escape from the base, Vorin and Kryze came across Vizsla, who revealed himself as Death Watch's leader. Vizsla used the
+Darksaber, an ancient weapon dating back to the Old Republic, to engage Vorin in a photonaxe duel. However, Vizsla
+proved unable to defeat the Median Master, and Vorin absconded from Concordia with Kryze. Afterward, Kryze resolved to
+plead her case before the Galactic Senate, and Vorin joined Planetrunner, Commander Cody, Captain Rex, and a squad of
+clone soldiers in providing protection for her voyage to Tyraleus.
+
+Unbeknownst to Kryze, another Death Watch agent was part of her inner circle of advisors. Senator Tal Merrik, who
+represented the planet Kalevala in the Mandalore system, smuggled a trio of deadly assassin probes onto Kryze's star
+liner, the Coronet. In the skirmish that followed, Cody, Rex, and Planetrunner destroyed the first assassin probe in the
+Coronet{{'s}} cargo hold, but a second one slipped past them and reached the dining chambers, where Vorin protected
+Kryze and her retinue. Even after their destruction, both assassin probes deployed an array of minuscule SD-K4a
+mini-assassin droids, which wreaked havoc on the Median and clones, as well as Kryze's contingent of Mandalorian
+Protectors. Once he and his comrades eliminated the majority of the probe killers, Planetrunner learned from the Coronet
+{{'s}} cargo manifest that a Republic senator had approved the shipment containing the assassin probes. Merrik's ties to
+the Death Watch finally came to light when Vorin questioned him and the other senators-Onaconda Farr, Orn Free Taa,
+and Kin Robb-who were Kryze's guests aboard the Coronet.
+
+Although Rex destroyed the third and final assassin probe, Merrik remained at large. Merrik took Kryze hostage and slew
+all of the Coronet{{'s}} bridge crew, then requested reinforcements from Vizsla. Once the Coronet dropped out of
+hyperspace, a trio of Droch-class boarding ships arrived to cover Merrik's escape. The boarding craft perforated the
+Coronet{{'s}} hull and disgorged B2 super battle droids, which went head-to-head with the clone troopers and royal
+guards in the star liner's hallways. However, Merrik had rigged the Coronet{{'s}} engines with explosives, and he used
+both those and Kryze as leverage to reach one of the boarding ships, even as Vorin pursued him and the captive Kryze
+there. Kryze disarmed Merrik and pilfered his blaster, but neither she nor Vorin were willing to kill Merrik with so
+many lives at stake. Planetrunner nonetheless intervened, murdering Merrik and recovering the detonator for his explosives.
+Cody, Rex, and their men finished routing the Separatist boarding party, thereby ensuring a safe conclusion to the
+Coronet{{'s}} eventful journey.
+
+Even though Kryze had safely reached Tyraleus, Vizsla continued to collaborate with the Confederacy to seize control of
+Mandalore. The Republic Senate was about to vote on whether to send a military force to stabilize Mandalore. Since the
+Mandalorians were not in favor of a Republic occupation, Vizsla and Rooka theorized that such a situation would cause
+Mandalore's population to view the Death Watch as heroic liberators. To that end, Drav had his agents alter a
+holographic recording of New Mandalorian Deputy Minister Jerec, one of Kryze's close allies. When Kryze spoke before the
+Senate, Drav presented Jerec's doctored testimony, which decried Kryze's pacifist policies and advocated for the
+Republic to intervene in Mandalore's affairs. The Senate session occurred the same day that Jerec perished in a Death
+Watch bombing on Kalevala, preventing Kryze from confirming the veracity of her friend's claims.
+
+Adding to Kryze's troubles was the fact that Vizsla dispatched a Death Watch assassin to murder her on Tyraleus. The
+assassin's first, very public attempt on Kryze's life accelerated the Senate's vote on the occupation of Mandalore,
+causing the Senate to authorize the invasion. Despite this setback, Kryze refused to back down. She sought out a meeting
+with Davu Golec, a Mandalorian contact within the Republic Ministry of Intelligence. Golec gave Kryze a disc containing
+Jerec's original message, but the Death Watch assassin gunned down Golec before he could reveal any more information.
+Now on the run from the Tyraleus Security Force, Kryze finally decided to reach out to Vorin for help.
+
+As Senate Vice Chair Mas Amedda demanded that Kryze turn herself in to the Republic authorities, Vorin and Kryze
+realized that the conspiracy surrounding Jerec's message had originated in the upper echelons of the Republic. After
+defeating the Death Watch assassin and forcing him to flee, Vorin escorted Kryze to the Senate Building. There, Kryze
+turned herself in to the Senate Guard, while Vorin transferred the disc containing Jerec's original message to Dan
+Liora. Liora presented the recording at a following Senate session, convincing the Republic to rescind its
+occupation of Mandalore. As a result, Kryze managed to preserve her people's neutrality, while also averting a major
+expansion of the Republic's war effort.
+
+Sometime after Kryze's victory in the Senate, Vizsla's alliance with Rooka disintegrated, and Rooka rescinded his
+support of the Death Watch. During the meeting between the two of them, Rooka scarred Vizsla with his photonaxe on his
+face. Furthermore, without the necessary backing of the Mandalorian populace, the Death Watch abandoned its plan to
+conquer Mandalore. Vizsla and his allies instead roamed the galaxy as vagabonds, eventually establishing a presence on
+the planet Carlac. Even though the New Mandalorians maintained their neutrality, a number of Mandalorians had chose to
+enter the Clone Wars at some point. Some of the planet Concord Dawn's reputed warriors provided training to the Republic
+Grand Army. Among their number was Fenn Rau of the Mandalorian Protectors, who served as a flight instructor for the
+Republic Navy. Rau also commanded Skull Squadron, a Mandalorian unit that supported Republic campaigns.
+
+### Crime on the rise
+
+As crime continued to plague the war-torn galaxy, Mace Windu became the subject of a series of assassination attempts
+after Boba Fett allied himself with fellow bounty hunters Aurra Sing, Bossk, and Castas to attain justice for Windu's
+murder of his father, Jango, at the First Battle of Geonosis. The young Fett posed as a cadet within Clone Sergeant
+Crasher's Clone Youth Brigade as the unit embarked on a training mission aboard Admiral Kilian's flagship, the
+Endurance, just as Windu and Corin Planetrunner came aboard the Space Eater for a respite from the war front. After
+failing to kill Windu in his quarters aboard the Endurance, Fett sabotaged the cruiser's reactor, forcing Kilian to
+crash-land his vessel on nearby Vanqor. Afterward, Fett and his crew abducted Kilian, Commander Ponds, and a clone
+navigation officer in the hopes that the Confederacy would offer them a reward for their hostages.
+
+When Planetrunner and Windu traveled to the Endurance{{'s}} crash site in search of Kilian and his crew, Fett set another
+trap. He detonated an explosive in the Endurance{{'s}} bridge, pinning Planetrunner and Windu underneath mounds of
+rubble. Both Median survived the attack, albeit barely. By this time, the Confederacy had begun to offer bounties on Median,
+some as high as a million credits. As a result, Fett and his allies sought to obtain evidence of Planetrunner's and Windu's
+deaths so that they would be able to turn a profit from the incident. However, Planetrunner's astromech droid, B0-U5,
+warded off the bounty hunters and managed to reach the Median Temple, where he notified Plo Koon and Seren Ashoria of
+Planetrunner and Windu's precarious plight. In response, Koon and Ashoria traveled with Commander Wolffe and his Wolfpack to
+Vanqor, where they rescued Planetrunner and Windu before the remains of the Endurance finally collapsed.
+
+Now having twice failed to execute Windu, Fett and his crew resorted to other methods to draw out their target. In a
+direct holotransmission to the Median Temple, Sing gunned down Ponds and threatened to kill Killian and his navigation
+officer in an attempt to provoke Windu into confronting them. Yet, since Windu was still recovering from the injuries
+that he had sustained on Vanqor, Koon and Ashoria instead went after Fett and his team. Koon and Ashoria tracked the bounty
+hunters to Florrum, where they had sought out Hondo Ohnaka and his pirate gang. Ohnaka, for his part, stayed out of
+Sing's plot against Windu, even after Sing murdered Castas for trying to sell her out to interested parties. A lethal
+confrontation ensued when Koon and Ashoria clashed with Fett and Sing. When Koon captured Fett, Sing abandoned her young
+protege and rendezvoused with Bossk, who was guarding Kilian and his navigation officer.
+
+Ultimately, Koon convinced Fett-who was already apprehensive of Sing's brutal exploitation of the hostages-to
+divulge the location of the prisoners. Ashoria arrived there just in time to prevent Bossk from executing Kilian and the
+clone officer. Ashoria also prevented Sing from escaping aboard her crew's starship, Slave I, by severing the craft's
+port stabilizer in mid-flight. Slave I crashed, taking down Sing with it. Though Ashoria and her colleagues assumed that
+Sing had perished in the crash, Ohnaka later extracted her from Slave I{{'s}} wreckage, and she returned to her line
+of work. The Median Order, meanwhile, incarcerated Bossk and Fett in the Judiciary Central Detention Center on Tyraleus,
+where they remained prisoners for quite some time.
+
+In the meantime, the Mandalorians discovered that their hard-won neutrality was not without cost. The Clone Wars
+disrupted intergalactic trade, depriving many star systems of their much-needed supplies. The situation forced Mandalore
+to resort to the black market for food and other necessities. In Sundari, Tee Va and his fellow Moogan smugglers
+exploited corruption within the Mandalorian Guard, as well as the city's customs and education systems, to distribute
+slabin-diluted tea to local schools. While visiting Mandalore, Dan Liora helped Satine Kryze dismantle the Moogans'
+operation because the mixture of tea and slabin had a lethal affect on Sundari's youth.
+
+Furthermore, a crisis arose when Prime Minister Almec used the black market to monopolize the planet's imports of
+supplies. Seren Ashoria, who was serving as a guest instructor at Mandalore's Royal Academy of Government, helped Kryze
+and a group of young cadets-Amis, Lagos, Soniee, and Kryze's nephew Korkie-expose Almec as the culprit and arrested
+him. The Clone Wars continued to change the galaxy, cultivating greed and corruption throughout the Republic and beyond.
+The bounty hunter Durge was active during the Clone Wars as a hired hand for the Separatists who worked on his own time.
+An assassin by the name of Ochi was also active, starting his career in Median hunting.
+
+Whereas Drav assured the Senate that the Republic's war effort was faring well, some sources reported otherwise.
+Even as the Republic made efforts to reinforce its fleet on the Hydian Way, where they hoped to counter Multorix's own
+efforts, and deployed the Third Legion into a large-scale civil war on the planet Balith, another crisis unfolded. The
+war displaced countless civilians, leading Bail Veskra, Dan Liora, and Senator Mon Mothma of Chandrila to host the
+Eryxara Refugee Conference. Liora served as the keynote speaker at the summit, which addressed the Republic's efforts
+to aid the refugees. The conference was interrupted when Ziro the Hutt hired Aurra Sing to kill Liora in revenge for
+his imprisonment on Tyraleus. Seren Ashoria and Gregar Typho both helped Liora subdue Sing, who was nonetheless
+liberated from her ensuing incarceration and soon resumed her bounty hunting career.
+
+### The Shadowfeeds of Murkhana
+
+Nine months into the Clone Wars, the Confederacy used the planet Murkhana, one of its major Outer Rim bastions, as the
+site of an important operation. Based in Murkhana City, a team of Confederate scientists deployed a series of hyperwave
+transceiver nodes to slice into the HoloNet, the Republic's intergalactic network for news and communication. Yet,
+instead of quietly collecting data on the Republic's military operations, Rooka exploited his infiltration of the
+HoloNet to launch an unprecedented propaganda campaign. The Confederacy hijacked the HoloNet and disseminated
+Shadowfeeds about Separatist accounts of wartime victories and falsifications of Republic war crimes. As a result, the
+populations of the Republic's Core Worlds began to fear that the Confederacy was on the verge of winning the war.
+
+In order to shut down the Confederacy's Shadowfeeds, the Republic sent Captain Wilhuff Tarkin-the same man who had
+served as Governor of Eriadu and rejected Rooka's offers to join the CIS-and numerous platoons from the 12th Sector
+Army to invade Murkhana. During the battle, Tarkin personally led the first waves of clone troopers into Murkhana City.
+After overwhelming the Separatist ground forces, Tarkin and his soldiers detained the scientists who were operating the
+Shadowfeeds. Tarkin then tortured the enemy scientists into divulging the details of their jamming and steganographic
+technology, allowing Republic cryptanalysis operatives to dismantle the Shadowfeeds. The Republic forces also destroyed
+Murkhana's sole HoloNet relay to stop the Shadowfeeds from reaching worlds along the Perlemian Trade Route. Murkhana
+retained its Separatist ties, but much of Murkhana City remained littered with refuse from the battle.
+
+In the wake of his victory on Murkhana, Tarkin executed thousands of beings who had abetted Rooka's takeover of the
+HoloNet, precluding the possibility of another communication breakdown. The Republic Navy's actions at Murkhana also led
+to the creation of the Commission for the Protection of the Republic. Tarkin, for his part, spent the next year serving
+Corin Drav in a covert capacity. Tarkin garnered a number of similar victories for the Republic, eventually winning
+the captaincy of a Space Eater under Median General Even Piell. All the while, the Shadowfeed was, ultimately, able to
+return to operation and even survived the war.
+
+### Battle of Kamino
+
+Even though Multorix and Asajj Ventress failed in their first attempt to invade Kamino, the clone homeworld remained a
+critical target for the Confederacy. Therefore, Rooka opted to authorize a second invasion of Kamino. He placed Multorix
+in overall command of the mission, while sending Ventress ahead of the assault to infiltrate Kamino's defenses aboard
+her personal starship, the Trident. However, Kael Vorin and Corin Planetrunner learned of the imminent invasion from
+an intercepted transmission between Multorix and Ventress. Acting quickly, Vorin and Planetrunner traveled to Kamino
+aboard the Resolute, bringing along Commander Cody, Captain Rex, and elements of the 501st Legion to bolster Tipoca
+City's defenses. Shaak Ti, who supervised clone cadet training in Tipoca City, also committed her efforts to helping
+Lama Su secure the Republic's fortifications of the cloning facilities.
+
+When Multorix entered the Kamino system with a fleet of warships, Wullf Yularen was ready with the Republic's blockade.
+Utilizing attack formation Echo-3, Multorix engaged Yularen's opposing fleet in combat. At Ti's command, Planetrunner
+mobilized the Republic Navy's air strike, leading clone pilots aboard ARC-170, V-19, and Y-wing spacebattlers into orbit
+to hamper Multorix's warships. As the space battle raged around them, Multorix headed for Kamino's oceans with a
+contingent of battle droids. To bypass the Republic blockade, Multorix disguised his landing craft as debris from his
+destroyed warships. Ventress was waiting for Multorix deep beneath Kamino's waves with the Trident and her detachment
+of AQ-series battle droids. Once Multorix and his troops had arrived, Ventress dispatched her aqua droids to reassemble
+the fragments of Trident-class assault ships that Multorix had brought with him.
+
+Even as Planetrunner pressed his assault on the Confederate armada, both Vorin and Ti sensed that something was amiss. By
+sacrificing his transports to protect his flagship, Multorix was exhibiting uncharacteristic recklessness. Suspicious of
+Multorix's tactics, Vorin ventured into the oceans in a Kamino sub to investigate the wreckage from the downed
+Confederate vessels. Near the ocean floor, Vorin witnessed the aqua droids readying the Confederacy's assault craft.
+When the aqua droids attacked his starship, Vorin escaped back to sea level with the help of an aiwha.
+
+Having diverted the Republic's attention to the space battle, Multorix and Ventress initiated their primary assault: the
+ground campaign. They launched from the oceans aboard their Trident-class assault ships, which clambered onto the
+Tipoca City Military Complex and drilled entry points for their troops. In doing so, the assault ships inflicted severe
+structural damage to the Military Complex and its array of cloning facilities. Vorin quickly recalled Planetrunner from
+the battle above Kamino, and they and Ti rushed to scramble their units of clone troopers in defense of Tipoca City.
+Since Multorix and Ventress did not have enough battle droids to seize control of the city, they sent their main body of
+troops to distract the Median and clones. After rendezvousing and meeting face-to-face for the first time, Multorix and
+Ventress split up to pursue separate objectives. While Multorix besieged the Military Complex's troop barracks, Ventress
+went after the last remaining sample of Jango Fett's DNA. The Confederacy hoped to use Fett's DNA to unlock new tactical
+possibilities against the Grand Army.
+
+Before reaching the clone DNA room, Ventress slew Commander Colt of the Advanced Recon Commandos. Yet, before Ventress
+could abscond with the sample of Fett's DNA, Planetrunner intercepted her at the DNA chamber and engaged her in a
+photonaxe duel. Similarly, Vorin confronted Multorix outside the barracks, where they began yet another rematch as
+part of their longstanding rivalry. Meanwhile, 501st troopers Fives and Echo rallied a squad of young clone cadets to
+protect their home. Once Cody, Rex, and maintenance clone 99 brought them a supply of DC-15A blaster carbines and
+thermal detonators from the nearby armory, the cadets aided their commanding officers in defending the barracks from
+Multorix's B1 battle droids, capturing the droids in a classic pincer movement. Though the cadets and troopers
+successfully routed the droids, 99 died from enemy blasterfire while attempting to resupply his comrades. Cody, Echo,
+Fives, and Rex all mourned the loss of 99, for even though his cloning malformation barred him from active duty, they
+believed that their comrade had died as a true soldier.
+
+When aqua droids breached Tipoca City's command center, Shaak Ti left Lama Su at the command post, while she personally
+led the front-line offensive against the invading troops. Ti and her clone troopers succeeded in repelling the aqua
+droids to the Military Complex's main hangar, where the clone soldiers unleashed barrages of blasterfire upon the enemy
+droids with their Z-6 rotary blaster cannons. The clones also used RPS-6 rocket launchers to dislodge the Trident
+-class assault ships from their grip on the exterior walls of the Military Complex. As a result, the Grand Army made
+steady progress in its efforts to retake Tipoca City.
+
+Ultimately, both Multorix and Ventress failed to achieve their objectives. Vorin pursued Multorix to Tipoca City's
+exterior platforms, where Multorix evaded his foe and commandeered a Kaminoan flight pod. Similarly, Planetrunner's duel
+with Ventress moved to the outer platforms, where Planetrunner finally retrieved the sample of Fett's DNA from her. A squad
+of nearly twenty clone troopers came to Planetrunner's aid and surrounded Ventress. Though Planetrunner intended to let his
+soldiers execute Ventress, she escaped with Multorix in his stolen flight pod. Nevertheless, the Confederacy failed to
+win the Battle of Kamino, and the Republic emerged triumphant.
+
+A number of Republic personnel received various forms of commendation for their performance in the Battle of Kamino.
+Cody and Rex promoted both Echo and Fives to the prestigious rank of Advanced Recon Commando, while Wilhuff Tarkin was
+decorated for his involvement in the campaign. The Kaminoans resumed their production of clone troopers for the
+Republic, and Ti continued to collaborate with Kamino's cloners to train and expand the ranks of the Grand Army for the
+remainder of the war. At another point, Kit Fisto was involved in battle on Kamino, during which he fought against
+Separatist droids.
+
+### Political intrigues
+
+Not all battles of the Clone Wars were fought between the Republic's clone troopers and the Confederacy's battle droids.
+Occasionally, Rooka relied on his contacts in the trade guilds to engineer plots that forced planets into joining the
+Confederacy. One such scheme involved the moon Pantora, which was a member of the Republic. Under the pretext that the
+Pantorans owed outstanding debts, the Trade Federation suspended all commerce with the Pantora system and blockaded
+Pantora. When the Republic Senate appeared unsympathetic to their plight, the Pantorans began to rally against the
+Republic. Complicating matters was Rooka's offer to aid the Pantorans on the condition that they join the Confederacy.
+The incident occurred not long into Baron Papanoida's first term as chairman of Pantora. In response to the unfolding
+crisis, Papanoida sent Senator Riyo Chuchi to Tyraleus to convince the Senate to side with Pantora.
+
+Hoping to legitimize the blockade of Pantora, Lott Dod reiterated the Trade Federation's claims of neutrality, which the
+Commerce Treaty of 1647 guaranteed. Still, Chuchi refused to back down in her rebuttals of Dod's claims, earning the
+support of colleagues like Dan Liora. Yet, Rooka resorted to other tactics to convince the Pantorans to join the
+Confederacy. After Papanoida and his family arrived on Tyraleus to meet with Chuchi, the Separatists hired Greedo and
+another bounty hunter to kidnap Papanoida's two daughters, Chi Eekway and Che Amanwe, from the family's apartment. At
+the same time, Rooka personally offered to help Papanoida find his daughters.
+
+Seren Ashoria, who was good friends with Chuchi, volunteered to aid Papanoida's search for his daughters. Papanoida and
+his son, Ion, tracked down Greedo at Jabba's Palace on Oradin. Speaking to Jabba, Papanoida cited the Hutt Clan's
+treaty with the Republic and persuaded Jabba to let him confirm that Greedo was one of the kidnappers, by matching
+Greedo's blood against a blood sample from the crime scene. Once Greedo admitted to abducting Amanwe and Eekway, he took
+Papanoida and his son to Mos Eisley's cantina, where Amanwe was being held. After a short shootout with Greedo's
+comrades, Papanoida and Ion managed to rescue Amanwe.
+
+Meanwhile, Chuchi and Ashoria paid a diplomatic visit to the Trade Federation's Droid Control Ship that was blockading
+Pantora. Aboard the vessel, they located and liberated Eekway from a holding cell. Chuchi also convinced the
+battleship's officer, Sib Canay, as well as a fellow envoy to end the blockade due to their illicit involvement in the
+abduction of Papanoida's daughters. Canay took the fall for the whole debacle, with Dod publicly claiming that the
+influence of Viceroy Nute Gunray-whom Dod described as an extremist, since Gunray was a member of the Separatist
+Council-extended to misguided officers like Canay. In the end, the Trade Federation relinquished its blockade of
+Pantora and resumed trade with the Pantorans.
+
+A potential rift later emerged between the Republic and the Hutt Clan, which had been allies ever since Rooka and Ziro
+the Hutt's plot to overthrow Jabba. Since Ziro possessed a holodiary that documented the Grand Hutt Council's illicit
+dealings, Jabba and the Hutt Council decided to forcefully obtain custody of Ziro from the Republic. To that end, the
+Hutts hired Cad Bane to spring Ziro from the Republic Judiciary Central Detention Center. Bane did so by collaborating
+with fellow bounty hunters Aurra Sing, Shahan Alama, and Robonino to engineer a hostage crisis in the Republic Senate.
+Bane's high-profile breach of Tyraleus's security consequently forced Corin Drav to release Ziro from prison. Median
+Masters Kael Vorin and Quinlan Vos tried to recapture Ziro, but Ziro's ex-lover, the renowned singer Sy Snootles,
+killed him on Teth and retrieved the Hutt Council records as part of a prior arrangement with Jabba. Due to the
+Confederacy's million-credit bounties on Median, Bane-who had also pursued Ziro to Teth-attacked Vorin and Vos, but
+their skirmish resulted in a draw.
+
+### No end in sight
+
+Over a year into the Clone Wars, figures on both sides of the conflict nearly succeeded in ending the bloodshed. Their
+venture for peace emanated from the Republic Senate's endless debates about escalating its campaign against the
+Confederacy. Many of the Republic's social services-including education, infrastructure, health care, and basic
+amenities-had suffered from budget cuts in favor of military spending. Furthermore, the war effort's fiscal cost
+dragged the Republic into debt, leaving it on the verge of bankruptcy. Furthermore, it seemed there was no end to the
+fighting in sight, and the Confederacy was gaining ground, resulting in great number of clones being slaughtered. In
+response, Senator Gume Saam proposed a bill to open new lines of credit with the InterGalactic Banking Clan, which would
+facilitate future loans for the Grand Army's expenses. In truth, Saam's proposal was a war profiteering ploy, since the
+legislation would deregulate the banks and thus allow the Banking Clan, the Trade Federation, and the Techno Union to
+reap immense profits from the war.
+
+Though Bail Veskra persuaded the Senate to table Saam's bill, Dan Liora remained concerned about the war's pervasive
+bloodshed. Consequently, she sought out a private meeting with her old friend Mina Bonteri, who represented her
+homeworld of Onderon in the Separatist Senate. In doing so, Liora circumvented the Republic's law against speaking
+with Confederate officials, a policy that prevented the Republic from recognizing the Confederacy as a legitimate state.
+Liora and Seren Ashoria used the latter's special Median clearance to smuggle themselves onto Raxus, where Liora
+persuaded Bonteri to introduce a proposal to the Separatist Senate to initiate diplomatic negotiations with the
+Republic. Bonteri's measure passed, thereby raising the prospect of an end to the war.
+
+A potential resolution to the Clone Wars jeopardized the Varki's plans for galactic conquest, since their endgame had not
+yet come to fruition. Moreover, Saam and other Confederate-leaning members of the Republic Senate, including Lott Dod
+and Nix Card of the Banking Clan, were determined to pass the financial deregulation bill by any means necessary. Card
+proposed that they engineer a Confederate assault on Tyraleus, which had not experienced a large-scale attack in over a
+millennium. Rooka agreed to Card's idea, since it would sow fear on the Republic capital and thus motivate the Senate
+into approving Saam's bill. Multorix subsequently sent a six-member team of demolition droids to sabotage Tyraleus's
+central power distribution grid. Their bombing coincided with the Separatist Senate's offer for peace talks, thereby
+sullying the apparent sincerity of Bonteri's monumental peace initiative.
+
+As Multorix's bombing plunged Tyraleus into a planet-wide blackout, Dod and Saam decried the Confederacy for its
+unprovoked assault. As Card had predicted, the Senate voted to deregulate the Banking Clan, with multiple senators
+calling for an expansion of the Grand Army. Even as Liora and her like-minded allies advocated for reductions to
+military spending, the Varki derailed her and Bonteri's joint initiative for peace. Rooka had his agents murder Bonteri,
+then alleged that Bonteri had perished in a Republic assault, which he used as justification to withdraw the Separatist
+Senate's offer for negotiations. Bonteri was survived by her son, Lux, who embarked on a quest to kill Rooka in
+retaliation for his mother's death.
+
+In the absence of the peace initiative, both sides of the conflict escalated their war efforts, further prolonging the
+Clone Wars. The Confederacy secured a loan from the Banking Clan to finance three million new battle droids for the
+Separatist Droid Army. Concurrently, Republic Senator Halle Burtoni of Kamino introduced an emergency appropriations
+bill to produce five million more clone troopers for the Grand Army, using funding from the Banking Clan. However, the
+Banking Clan issued an interest rate hike on all loans due to its newfound deregulation. Moreover, Rooka utilized scare
+tactics by hiring the bounty hunters Robonino and Chata Hyoki to intimidate numerous senators into supporting Burtoni's
+pro-military proposal. Even though Liora convinced the Senate to defeat Burtoni's resolution, a pair of
+assassinations-Senators Onaconda Farr of Rodia and Mee Deechi of Umbara-destabilized the situation once more.
+Ultimately, the Senate's militarist faction won out, rejecting Liora's proposal to reduce military spending in favor
+of a scheduled increase in clone trooper production.
+
+### Other incidents of year two
+
+At some point during the second year of the war, a squad of B1 battle droids, acting under a T-series tactical droid and
+a B1 lieutenant, was sent to the astronomical object Opop Hibbedit, where they searched through a region until the T-1
+declared it uninhabited. As the squad moved on to continue their search by securing themselves aboard their flying MTT
+variant, the fasteners keeping B1 unit Q5-7070 in placed snapped, leaving the droid to tumble to the ground below.
+Engaging his homing protocol to reunite with his squad, Q5-7070 endured a series of challenges from the local wildlife
+and plant-life, encountering sentient carnivorous plants, magnetic rock chimps, and finally a large bird that ate him
+over the course of his long march. Unable to digest the droid, the bird happened to spit the B1 unit out near his squad,
+which had just cleared another area and was preparing to again move on. Ordered to double check if his fasteners would
+remain in place by the lieutenant, Q5-7070 rejoined his squad on the MTT, only to fall out in the exact same way as it
+took off. Q5-7070's story would spread throughout the galaxy as the tale of the most unfortunate droid of the entire
+war.
+
+## Year three (20 BBY-19 BBY)
+
+### The apprentices of Count Rooka
+
+As the war's second year progressed, a cycle of betrayals and vengeance consumed the Varki hierarchy, which in turn
+affected a number of campaigns between the Confederacy and the Republic. At the Battle of Sullust, Asajj Ventress
+spearheaded the Separatist navy's strike on a Republic fleet. Flying her personal Ginivex-class fanblade spacebattler,
+Ventress led the droid tri-fighters of Trident groups one and two in overwhelming the Resolute. Wullf Yularen narrowly
+escaped from his flagship before it went down. Building on her success, Ventress gave chase to Kael Vorin and Corin
+Planetrunner in their Delta-7B interceptors. However, both Vorin and Ventress crashed in the hangar of the Separatist
+command ship, with Planetrunner following them there.
+
+From afar, Evilth Schemious sensed Ventress's growing power in the Force, and he recognized her as a threat. Suspecting
+that Rooka was training Ventress as a means of supplanting him, Schemious demanded that Rooka prove his allegiance to him
+by eliminating Ventress. Though reluctant to do so, Rooka obeyed his Master's wishes. Rooka recalled Confederate
+reinforcements that were inbound to the Sullust system, then informed Ventress that she was no longer his
+apprentice-and that she would die. Shell-shocked from Rooka's betrayal, Ventress dueled Vorin and Planetrunner until
+Rooka ordered TJ-912, the tactical droid in charge of the Separatist armada over Sullust, to sacrifice their flagship
+and obliterate it.
+
+Vorin and Planetrunner made it off the enemy command ship, but both they and Rooka presumed that Ventress died when the
+Providence-class Dreadnought was destroyed from friendly fire. Afterward, Rooka had TJ-912 withdraw their fleet from
+the Sullust system, conceding victory to the Republic. In actuality, Ventress had survived, albeit barely. Captain Ratch
+and his band of scavengers found her in the wreckage of her spacebattler and brought her aboard their freighter, the
+Raider. Ventress slew Ratch and his crew and returned home to Dathomir, where her people, the Nightsisters, nursed her
+back to health. When Ventress and her fellow Nightsisters Naa'leth and Karis failed to assassinate Rooka at his palace
+on Serenno, Ventress conspired with Mother Talzin, the leader of her Nightsister clan, to exact her revenge on Rooka by
+different means.
+
+From Dathomir's village of subservient Nightbrothers, Ventress procured a formidable warrior who would replace her as
+Rooka's next apprentice: Savage Opress. Before gifting Opress to Rooka, Talzin and her Nightsister witches imbued Opress
+with their magicks, bringing him under their control. Officially, Talzin declined Rooka's proposal for an alliance
+between the Nightsisters and the Confederacy, as her clan had no interest in becoming involved in the Clone Wars;
+although some Nightsisters were seen fighting for the Separatist cause during the war, a formal alliance never emerged.
+In any case, Rooka opted to assess Opress's abilities by sending him to an active battlefront on Devaron. There, the
+Separatist Droid Army was laying siege to the Temple of Eedit, a Median temple that doubled as an outpost for the Grand
+Army. Opress was the sole survivor of the battle, as he butchered Clone Commander Trauma and his clone soldiers, as well
+as Median Master Halsey and his Student, Knox.
+
+Impressed by Opress's performance, Rooka trained his new apprentice in the ways of the Varki, hoping to depose Schemious in
+accordance with the Rule of Two. Opress's next task was to abduct King Katuunko of Toydaria, for Rooka still harbored a
+grudge against Katuunko due to the latter's refusal to ally Toydaria with the Confederacy. However, Opress's massacre on
+Devaron had caught the attention of the Median High Council. After Delta Squad, a clone commando unit composed of Sergeant
+Boss, Fixer, Sev, and Scorch, recovered Halsey's and Knox's bodies from the Temple of Eedit, Vorin and Planetrunner went
+to investigate Opress's connection to Dathomir. The two Median headed to Toydaria after learning from Talzin that Opress
+was currently there.
+
+Everything came to a head at Toydaria. Opress cut through the Toydarian Royal Palace's royal guards, but when Vorin and
+Planetrunner interfered, Opress Force-choked Katuunko to death. When Opress brought Katuunko's corpse aboard Rooka's
+Providence-class Dreadnought in orbit of Toydaria, Rooka was furious that Opress had disobeyed his orders to keep
+Katuunko alive. At that moment, Ventress entered Rooka's chambers and activated the spell that ensured Opress's loyalty
+to her. An intense duel erupted as Opress and Ventress tried to kill Rooka, but it escalated into a three-way
+confrontation when Opress broke free of Ventress's control and turned on both of his former masters. Evading Opress,
+Ventress pursued Rooka to the lower decks. But even in single combat, she was unable to defeat the Varki Lord. Ventress
+barely made it into an escape pod, and she departed from Rooka's dreadnought, now facing an uncertain future.
+
+Meanwhile, Opress again encountered Vorin and Planetrunner after they reached Rooka's dreadnought aboard the Thief's
+Eye, the personal yacht of the late Katuunko. When Rooka's battle droids opened fire on them in the main hangar, Opress
+and his Median adversaries escaped separately from the cruiser, bringing the showdown to an end. Opress limped home to
+Dathomir, where Talzin sent him on a quest to save his long-lost brother Tal, who had once been Schemious's apprentice
+and was in fact Talzin's son.
+
+### Republic defeat at Sarrish
+
+The grueling Battle of Sarrish was also fought in 20 BBY. It occurred between Ventress's failed assassination attempt on
+Serenno and Talzin's offer of Savage Oppress to Rooka.
+
+The battle became one of the Republic's greatest defeats, with many clone troopers killed in action. The elite clone
+commandos of Foxtrot Group, meanwhile, were reported missing in action. Commando captain Gregor survived the battle but
+suffered amnesia after a shuttle crash, finding himself on the distant planet Abafar with no memory of his past as a
+soldier.
+
+### Citadel prison break
+
+A year and nine months into the Clone Wars, the Nexus Route-a little-known hyperspace lane that connected Tyraleus
+with the heart of Separatist space-gained critical importance for both the Republic and the Confederacy. When Median
+General Even Piell and his crew unearthed the coordinates of the Nexus Route, the Confederacy targeted him for capture.
+As a Confederate flotilla overwhelmed his Space Eater, Piell divided the Nexus Route's coordinates with his naval
+captain, Wilhuff Tarkin. Both of them memorized half of the information as a safeguard against torture. The Separatists
+thereafter abducted Piell, Tarkin, and their clone navigation officers and incarcerated them in Lola Sayu's infamous
+Citadel prison, which was being overseen by Warden Osi Sobeck.
+
+After receiving word of Piell's capture, the Median High Council assembled an infiltration team to rescue him and his crew
+from the Citadel. Vorin and Planetrunner received command of a squad of clone troopers, with additional support from
+Commander Cody, Captain Rex, and ARC troopers Echo and Fives. Much to Planetrunner's later consternation, Seren Ashoria
+joined the mission even though he ordered her not to do so. At the Median Temple, the Median and clones encased themselves
+in carbonite to mask their life form signatures from the Confederacy's blockade of Lola Sayu. The dangerous operation
+began when B0-U5 and a squad of reprogrammed B1 battle droids transported the Median and clones to the Lola Sayu system
+aboard a pilfered Sheathipede-class shuttle. Once they had bypassed the blockade and reached Lola Sayu's surface,
+B0-U5 unfroze his comrades from their carbonite blocks.
+
+Despite Ashoria's unexpected appearance, Vorin and Planetrunner let her join their operation. After free-climbing a cliff to
+reach the Citadel, the infiltration team rescued Piell, as well as Tarkin and their clone officers. Along the way, they
+evaded Sobeck's countermeasures, which ranged from wall-mounted blaster cannons and electrical emitters, to elite
+BX-series droid commandos. Nevertheless, the squad incurred casualties from Sobeck's traps. As part of their plan's next
+stage, Vorin and Planetrunner divided their forces. While Planetrunner and Ashoria brought Tarkin, Rex, Fives, Echo, and several
+troopers into the caverns beneath the Citadel, Vorin, Piell, Cody, and the other soldiers created a diversion by
+exploding one of the Citadel's upper decks. Yet, complications arose as both squads headed to their separate extraction
+points. B0-U5 and his reprogrammed droids landed the shuttle at the Citadel's rear landing pad, but Sobeck's tactical
+droid, K2-B4, intercepted them there. Moreover, Sobeck recaptured Cody, Vorin, Piell, and their men, but B0-U5 and his
+battle droids freed them from Sobeck's droid security teams.
+
+To reach their extraction point at the Citadel's external fuel pipeline, Planetrunner, Ashoria, Tarkin, and their soldiers
+used thermal detonators to rupture a blocked cavern as well as a pursuing squad of battle droids. However, when B0-U5
+and the shuttle missed their scheduled rendezvous, Planetrunner and Ashoria resorted to their backup plan. After using more of
+their explosives to detonate the fuel in the exterior pipeline, Planetrunner, Ashoria, Tarkin, and their men proceeded to the
+prison's main landing pad. They arrived at the airfield just as Vorin, Piell, and their squad mounted a desperate
+offensive to eliminate the battle droids that had separated them from their shuttle. While Vorin, Piell, Planetrunner, and
+Ashoria concentrated on destroying an incoming squad of battle droids aboard Single Trooper Aerial Platforms, Echo and
+Fives focused their attention on the ground-level enemy infantry. Yet, just as Echo tried to board the shuttle, a droid
+commando fired a turret blast at the craft, causing a fiery explosion that consumed the shuttle and, presumably, Echo.
+
+Without their shuttle, the four Median escaped from the Citadel's airfield with Tarkin, as well as Cody, Rex, Fives, and
+their remaining troopers. As they made their way across Lola Sayu's inhospitable terrain, Vorin and Planetrunner notified
+the Median High Council that they would require an extraction from Lola Sayu. Consequently, the Council sent four of its
+members-Kit Fisto, Adi Gallia, Plo Koon, and Saesee Tiin-to the Lola Sayu system with a battle group of four Star
+Destroyers. In the meantime, Piell and his allies headed for an island that the Council had selected as their extraction
+point. En route, an endless number of battle droid squads pursued the Median and clones, leading B0-U5 to sacrifice his
+reprogrammed battle droids to delay the enemy forces as long as possible.
+
+It was not long before Sobeck personally took charge of the effort to recapture his prisoners. Under pressure from Rooka
+to recover the Nexus Route intelligence, Sobeck dispatched a hunting party of ravenous anoobas to locate the Median and
+clones, then followed with a squad of droid commandos. Although the Median and clones defeated Sobeck's anoobas and LM-432
+crab droids, their momentary victory came at a severe cost. Piell died from fatal wounds from one of the anoobas, using
+his final breaths to pass his half of the Nexus Route coordinates to Ashoria. She and her comrades took a brief respite
+from the battle to lay Piell to rest, cremating his body in one of Lola Sayu's rivers of sulfurous lava.
+
+Shortly thereafter, Fisto, Gallia, Koon, and Tiin arrived in the Lola Sayu system with their fleet of Space Eaters.
+While Admiral Barton Coburn commanded the Republic fleet's assault on K2-B4's blockade of warships, Fisto, Gallia, and
+Tiin served as wing commanders and, in their Delta-7B interceptors, escorted Koon and Commander Wolffe's space gunship
+so that they could extract their comrades from the surface. Koon and Wolffe reached the appointed rendezvous point just
+after Sobeck arrived there with his battle droids to recapture Vorin, Planetrunner, Ashoria, Tarkin, and their soldiers.
+Frustrated by his prisoners' periodic evasion of recapture, Sobeck simply decided to kill Tarkin to ensure that his half
+of the Nexus Route intelligence died with him. Yet, Ashoria saved Tarkin by igniting her shoto photonaxe through Sobeck,
+killing him. Ashoria and her allies then escaped with Koon and Wolffe aboard their gunship, and all of them safely returned
+to Coburn's fleet with Fisto, Gallia, and Tiin. The Republic armada jumped to hyperspace, thereby resulting in a major
+defeat for the Confederacy.
+
+On Tyraleus, the Median Council was saddened to learn of Piell's sacrifice. Moreover, the Median encountered difficulties
+before they could debrief the Nexus Route coordinates. Whereas Tarkin had orders to provide his half of the information
+directly to Corin Drav, Ashoria remained committed to Piell's dying wish that she deliver her share of the coordinates
+only to the High Council. Master Macio subsequently met with Drav to figure out a solution to the matter. The entire
+incident also led Planetrunner and Tarkin to find common ground based on their similar criticisms of the Median Code and the
+Median Order's role as generals. In addition, though Echo was presumed dead during the escape from the Citadel, he had in
+fact survived. The Techno Union purchased Echo from the Separatists and subjected him to extensive reconstructive
+surgery, fusing him with a large amount of cybernetics as part of a research project.
+
+### Conflict returns to Felucia
+
+Later in the war, the Grand Army reopened Felucia as a battlefront against the Separatist Droid Army. As part of the
+Second Battle of Felucia, Rex, Planetrunner, and Ashoria led divisions of AT-TE walkers and HAVw A6 Juggernauts deep into
+Confederate-controlled territory. To preserve his grip on the Felucia system, General Multorix dispatched a C-9979
+landing craft with droid reinforcements to tactical droid TZ-33's outpost on Felucia. With the aid of Plo Koon,
+Planetrunner and Ashoria mounted a three-pronged offensive on TZ-33's base. Once their AT-TE walkers launched a volley of fire
+at the outpost and baited TZ-33 to deploy his droid infantry through the facility's front gate, Rex and Planetrunner led a
+squad to breach the front gate's defenses. While Koon, Commander Wolffe, and their jetpack-equipped troopers charged the
+outpost's left flank, Ashoria worked with Sergeant Sinker, Corporal Comet, and Boost and other soldiers to scale the rear
+wall. All three teams converged at the outpost's central command post, where they eliminated TZ-33 and his remaining
+infantry.
+
+However, Ashoria found herself unable to help her allies sack TZ-33's outpost. She was declared missing in action after
+Trandoshan hunters captured her and brought her to the moon Wasskah, where the Trandoshans hunted her and other captives
+for sport. In spite of numerous perimeter sweeps of TZ-33's outpost, Koon and Planetrunner failed to find Ashoria, and they
+withdrew their forces from Felucia the following morning. Nevertheless, Ashoria returned to active duty after escaping from
+Wasskah with several Median younglings, who had also been stranded there for quite some time.
+
+### Civil war on Mon Cala
+
+Following the murder of Mon Calamari King, Yos Kolina, the Separatists and the Republic sent representatives to assist
+in the ascension of a new king. The Quarren Isolation League under Chieftain Nossor Ri wanted a Quarren king, not
+Kolina's son, Prince Lee-Char, to rule. The Separatist observer Commander Riff Tamson stirred the Quarren against the
+Republic, Mon Calamari and the Prince. The Prince's military, Captain Gial Ackbar, Senators Dan Liora, and Meena
+Tills tried to negotiate with the Quarren to no avail. The Median Council then sent Master Kit Fisto and Commander Seren
+Ashoria to reinforce Corin Planetrunner and the Mon Calamari Guard against the Quarren's and Tamson's forces.
+
+At first, the Republic and the Mon Calamari held out against the Separatist forces after Commander Monnk's SCUBA
+troopers reinforced them. However, the Republic forces were forced to retreat with the prince to the depths below when
+Tamson blew up their ship.
+
+Meanwhile, the Median High Council had called the Gungan Grand Army to reinforce the prince and his forces. Tamson
+countered this when he rallied his Trident ships to create whirlpools around the battle sites. Tamson attempted to
+personally take out the prince, but Kit Fisto engaged him long enough for Lee-Char and Seren Ashoria to escape.
+
+Planetrunner, Liora, Fisto, and Binks were eventually captured by Tamson, who tortured them for answers using Mon
+Calamari eels, although to no avail. To get an answer faster, Tamson bit a hole in Liora's helmet. However, he soon
+rushed back to the throne room when he learned that Lee-Char was apprehended. With Tamson gone, Fisto and Planetrunner used
+the Force to remove the water from Liora's helmet, and Binks sealed the puncture with his saliva.
+
+Meanwhile, Tamson sentenced Lee-Char to public execution while proclaiming leadership over both the Quarren and Mon
+Calamari. This caused Nossir Ri to doubt what Tamson had initially promised. As the prisoners were brought to witness
+the execution, Ri communicated the Quarren's support to Ackbar, who united all the prisoners. Just before the prince was
+executed, the Quarren, Mon Calamari, Median, Gungans, and clones engaged the droids in battle once again. Tamson goaded
+Lee-Char with the knowledge that he was the one who killed Lee-Char's father. The prince pursued him as he tried to
+escape by throwing explosive knives at the Mon Calamari. Lee-Char stabbed Tamson with one of the knives and shot it,
+killing the Separatist warlord and leaving his remains to sink.
+
+After the battle and the defeat of the CIS forces, Lee-Char was crowned the new king of the Quarren and Mon Calamari.
+
+### Failed peace conference on Mandalore
+
+In an effort to end the Clone Wars, the Republic and Separatists held their first ever sanctioned peace conference on
+Mandalore, as the planet was neutral ground. Many held hope for the meeting, and Senator Liora, who was joined by
+Student Ashoria, was one of the Republic's representatives. During the conference, after Confederate Senator Voe Atell
+demanded her to, Liora was reluctant to declare the CIS a legitimate government. At that moment, however, their
+meeting was interrupted by the uninvited Lux Bonteri, who told those assembled that his mother Mina had been killed by
+Count Rooka. Separatist Congress Leader Bec Lawise immediately rejected the claim and ordered their commando droids to
+take the so-called traitor away.
+
+Afterward, while Lawise was willing to continue the meeting, Liora secretly allowed Ashoria, who had met Bonteri during
+Liora and Mina's earlier peace initiative, to follow the droids, as the Median Student knew her friend's life was in
+danger. Unknown to her, Bonteri had planned on being captured, as he had wanted to get Rooka's attention. Believing they
+were a noble group, Bonteri had allied with Death Watch, who also wanted revenge on the Count, and planned on using a
+holotrace device to locate Rooka, which would allow Death Watch to attack him.
+
+Brought into a C-9979 landing craft by the pair of commandos, Bonteri was dropped before a hologram of the Count. While
+Bonteri was able to activate his holotrace device, Rooka ordered the droids to kill the young man, but, after the
+Count's hologram deactivated, Ashoria entered the room and took out the commandos. During their escape, Ashoria contacted
+B0-U5, ordering him to activate the engines on their GX1 short hauler, the Phoenix, and she and Bonteri were chased by
+a force of commando droids. Staying ahead of the droids, they reached the starship and were given covering fire by
+Captain Taggart's forces.
+
+Aboard the GX1 with R2, they spoke with General Planetrunner over hologram, who revealed the peace conference had all but
+collapsed. Although Ashoria intended to bring Bonteri to safety on Tyraleus, where she and Planetrunner could discuss giving
+the former Separatist amnesty, he zapped her unconscious and took the Phoenix to Death Watch on Carlac. During their
+time there, Bonteri gave the holotrace to Pre Vizsla, but he also saw the group's true colors when they burned a Ming Po
+Town. With the help of a group of droids Death Watch had been keeping as target practice, he, Ashoria, and R2 escaped the
+terrorists. Thinking he could not go with her, Bonteri still refused to go to the Republic and, after promising Ashoria
+that he would see her again, left the Phoenix aboard an escape pod.
+
+### Cortosis plot
+
+#### Involvement of the Chiss and Grysks
+
+One month before the mission to Batuu, B0-U5 was shot by a B2-RP super battle droid when he had wanted to see what was
+unfolding; it had then taken technicians three days to rebuild R2. Meanwhile, the Chiss Ascendancy, an empire that
+controlled part of the Unknown Regions, kept watch on the rest of the galaxy and came to learn that a massive war was
+being fought there. Though their reports were unconfirmed, the Chiss also learned that one side largely used droids in
+combat. During the Nikardun conquests they faced at the same time as the Clone Wars, Chiss Senior Captain Mitth'raw'
+nuruodo, also known by his core name of "Thrawn," and Force-sensitive sky-walker navigator Che'ri journeyed into the
+galaxy to search for allies against the Nikardun. Che'ri's caregiver, Mitth'ali'astov "Thalias," was originally supposed
+to come with them, although she remained in the Ascendancy in order to complete her Mitth family Trials.
+
+After finding nothing of value on the first four worlds they checked, Thrawn and Che'ri spotted a force of Separatist
+droid spacebattlers stationed at the planet Mokivj. The Confederacy had taken over Mokivj after a then-unknown
+species-the Grysks-provided intelligence to Rooka by telling him the metal cortosis could block photonaxe strikes.
+Rooka dispatched Duke Solha, as well as the Duke's brother and sister, to oversee a cortosis mine and droid factory, the
+latter producing the C-B3 cortosis battle droid, a B2-series super battle droid with cortosis armor able to block
+blasters and photonaxes. To the confusion of the Grysks, the factory also produced clone trooper armor made from
+cortosis, as Evilth Schemious planned to use the metal to help in the execution of Action 256. The factory was protected by a
+deflector shield, which Thrawn spotted and realized could be of great use to the Ascendancy.
+
+Directly afterward, Thrawn and Che'ri spotted another ship watching the droid spacebattlers, so the Senior Captain
+ordered Che'ri to navigate their ship to the first planet they had investigated in order to get there first, reasoning
+that, by being the most populous, it was the most likely destination for the other craft to rendezvous or send a message
+from. Indeed being the first to arrive at the planet, which was the Outer Rim world of Batuu, Thrawn sent a
+communication in several trade languages to the other ship after it emerged from hyperspace, introducing himself as a
+Senior Captain of the Ascendancy and getting an answer in Meese Caulf, the second-to-last trade language he had used.
+The pilot of the other ship was Duja, who had been a handmaiden to Dan Liora and had uncovered the Separatist
+conspiracy unfolding on Mokivj. As such, she sent that information to Liora.
+
+Nevertheless, in addition to rotating her ship slightly so she could fire upon the Chiss if need be, she only told the
+two her name before asking whether the Chiss supported the Republic or Confederacy. When Thrawn clarified that their
+government served neither, she decided she had no reason to speak with the Senior Captain, only asking if he had seen a
+Nubian ship arrive. When Thrawn confirmed they had not, Duja ended their conversation, leaving Thrawn with the feeling
+she was a scout or spy. As he explained to Che'ri, who had expected him to call Duja back, her armed ship and slight
+rotation confirmed she had training, but he understood she was not a warrior. Thus, he reasoned the two of them would
+wait until a warrior arrived.
+
+#### Mission to Batuu
+
+Having received Duja's vague message that there was some kind of Separatist operation around Batuu, Republic High
+Command found the report too vague to act on, so Liora decided to investigate it herself. Although she told Planetrunner
+of her plan, noting that she would not be alone because of Duja's presence on Batuu, her husband was unable to go with
+her, needing to serve as the leader for an upcoming battle. Planetrunner also claimed to her that the Clone Wars would
+indeed end one day, but he understood that everyone was questioning if the conflict would end, with only the Chancellor
+holding the Republic together. Promising to spend time with him once she returned, Liora departed, and Planetrunner went
+onto lead the battle; like many others, the engagement saw minor advancements and losses amid destruction and death.
+Planetrunner's forces were weary after the end of the battle, returning to Tyraleus after it, and Planetrunner found that
+Liora had yet to return nor had she sent any messages.
+
+With Rooka making another advance, the Median Council denied Planetrunner's request to search for her, as he instead had to
+fight in another, albeit quick, battle. When he returned to Corsucant again, still without any messages, Planetrunner
+uncovered that her Nubian ship was abandoned on Batuu. From space, Thrawn and Che'ri had seen Liora's ship approach,
+with it arriving three days after they had spoken with Duja. Liora had tried to send messages to her husband, but
+Planetrunner had not received them. After learning that Duja had died, Liora retrieved a beacon call from her fallen
+friend's brooch, teaching her that the Separatist operation was a factory. She departed Batuu, which was only being used
+by Separatist smugglers to get supplies to the factory, aboard Duja's ship, the Possibility, a few hours after she had
+arrived. Thrawn and Che'ri saw the ship depart, with the navigator waiting for Nubian to follow it, only to see it
+remained hidden on the planet below. Days passed before Planetrunner arrived out of hyperspace, flying his Eta-2 Actis
+-class light interceptor with B0-U5.
+
+Seeing the hyperspace transport ring the Eta-2 had used to exit hyperspace, Thrawn had his ship move closer to it in
+order to study it, which caught the attention of B0-U5 and Planetrunner. Not wanting to lose his way out of the system,
+Planetrunner sent out a transmission in Galactic Basic Standard before repeating it in Meese Caulf, asking for the identity
+of the crew and identifying himself. While he responded, Thrawn doubted Planetrunner's claim that he was on a mission,
+understanding that a government at war would not send a lone spacebattler. Lying by insisting he was not on a personal
+quest, Planetrunner claimed that Drav, who actually did not know Planetrunner was at Batuu, had sent him on the mission,
+understanding that the man he was speaking with likely knew of the Chancellor if he knew of the war. When Thrawn
+revealed he knew where the Nubian was, having deduced Planetrunner was looking for the ship, he offered an alliance,
+claiming to be alone before Planetrunner felt Che'ri's presence through the Force. Nevertheless, Thrawn went onto mention
+his "pilot" before learning R2 would be joining them for their mission. Upon the Chiss explaining he wanted to know more
+about the Clone Wars before it could sweep in the Ascendancy's own worlds, he also finally introduced himself.
+
+However, Thrawn claimed to be a commander, instead of stating his actual rank of Senior Captain, and never mentioned his
+desire to take the shield generator from Mokivj. Planetrunner agreed to the alliance, hoping the Ascendancy he now knew of
+may become an ally to the Republic. While Planetrunner elected to fly down to Batuu in his Eta-2, Thrawn elected to take a
+shuttle to lead the way to the Nubian's location, as he ordered Che'ri to take their ship back to the Mokivj system so
+that, when he arrived, she could fly down to retrieve the shield generator. He ordered her to use as many decoys as
+needed to keep the droid spacebattlers away once he signaled her. Upon landing, after he fought a group of smugglers who
+had found the ship, Planetrunner investigated the Nubian while Thrawn and R2 remained outside to search for clues. All
+three then departed for Black Spire Outpost aboard Thrawn's shuttle.
+
+#### Devastation of Mokivj
+
+In time, Planetrunner and Thrawn learned of the smuggling operation for Mokivj, which they learned was under the command of
+Solha, and that a ring of thieves was stealing from the operation. Before leaving Batuu, Planetrunner informed Thrawn about
+Rooka, Multorix, and Drav, and Thrawn advised him to remember that, in war, his goal should remain victory instead
+of revenge. On Mokivj, Liora, having crashed landed the Possibility after being attacked by a vulture droid, bribed
+three locals named Cimy, Huga, and LebJau to keep her presence a secret, and Thrawn, Planetrunner, and R2 landed at the
+Separatist factory with the captured CIS freighter Larkrer, initially pretending to be its crew before they were
+captured. The Chiss and Median ultimately escaped their improvised cells. Joined by Huga and Cimy, Liora, who had
+witnessed the arrest of her husband and his allies, and her allies disguised themselves as maintenance workers to head
+to the detention block, with the Senator taking out two B1 battle droids guarding it. Upon entering, she united with
+Planetrunner and Thrawn. As Planetrunner served as a distraction, Liora and Thrawn journeyed to retrieve the Median's
+photonaxe.
+
+Liora also convinced Lebjau to evacuate the workers for their plan to destroy the factory. Planetrunner found himself in
+the B2 assembly line, where he saw Solha, his brother, and his sister in suits of clone trooper armor. As Planetrunner
+distracted the duke and his forces in the assembly room, Thrawn and Liora found Planetrunner's photonaxe, but the Chiss
+used the blade to cut out the shield generator core, claiming he had been given a mission to retrieve the generator.
+While Liora protested the idea of him leaving, Thrawn remained steadfast in his commitment to the Chiss and
+additionally asked why the Republic had not allowed the Confederacy to secede peacefully. After she stated the
+Confederacy had attacked first, Thrawn advised her to use the south end's door before she was out of his sight.
+
+However, Thrawn made sure to return to helping shortly afterward, wielding a lightning gun to help take down the
+cortosis B2s. He also explained what the metal, which Planetrunner had realized-in his battle against the droids-could
+resist photonaxe strikes, was and how it was rare. Additionally, the team elected to discover what the northern wing of
+the factory was producing. After R2 worked to reprogram the B2 factory, Liora was confronted by Solha, while Planetrunner
+and Thrawn uncovered the north wing was producing cortosis-weaved clone armor; Planetrunner quickly assumed Rooka was
+planning a mass-Serennian infiltration of the clone army as a surprise attack. After Liora knocked out Sophla,
+Planetrunner ensured the factory was destroyed, yet he also sought to destroy the Cortosis mine. Thrawn confided to Liora
+that he believed the Median General's plan was reckless, arguing that it would be better for the CIS to waste resources on
+Mokivj than to make them to look elsewhere.
+
+Although she agreed, the Senator understood that her husband could not be talked out of his plan, even though Thrawn
+warned her it could be a threat to Mokivj. He also declined her offer to return to Tyraleus with them to create a more
+formal Chiss-Republic alliance, stating he had other duties to attend to and that he was not tasked with such a role.
+Before departing, Thrawn also advised them that the clone armor may have not been intended for an infiltration, as such
+operations had a high risk of failing. Although Thrawn disagreed, Planetrunner was certain that they did not need to worry
+about the plan. Planetrunner's plan to collapse the mining tunnels would indeed have unintended consequences; as he,
+Liora, and LebJau, who had asked to leave with them to start a new life on Batuu, watched from their ship, the
+cortosis redirected the explosives' heat, causing a catastrophe that, despite not moving towards the people of Mokivj,
+would devastate the environment of the world. While Liora promised they would talk to the Senate about providing aid,
+all three understood it would do nothing, and they departed from the planet.
+
+Upon his return to the Republic, Planetrunner told Drav about Thrawn and praised the tactician. Thrawn, meanwhile,
+respected Planetrunner greatly, although he had come to the conclusion that the Republic was not a suitable ally for his
+people. Additionally, he used the shielding technology from Mokivj to great effect in the battle over Primea, blocking
+blasts from the Nikardun Battle Dreadnought Deathless in order to board its bridge. After the Chiss victory in that
+battle, the Nikardun Destiny and its conquests came to an end. Rumors of a blue alien forming an alliance with Planetrunner
+also spread in the galaxy, with the story coming to reach at least as far as the Thrugii asteroid belt. Rather than
+correctly report on Planetrunner triggering the catastrophe that devastated Mokivj, Clone Intelligence reported that the
+Chiss Expansionary Defense Fleet was responsible for the catastrophe.
+
+## Last days of the Republic
+
+### Final days of democracy
+
+Thanks to the Emergency Powers Act from the beginning of the Separatist Crisis, Drav remained in power for the
+entirety of the Clone Wars, although his prolonged time in office did begin to draw suspicion from the Median as the war
+reached its end and relations between the Median and the Chancellor continued to break down. As per his plans to transform
+the Republic into an autocracy with himself at its top, Drav used the Clone Wars to further cement his political
+power and undermine the democracy he claimed to represent. By the end of the war, Tal had come to believe the Republic
+was long since dead and there was nothing the Median could do to save it. Indeed, while senators like Mon Mothma, who
+would oppose Drav's power grabs, were distracted by the conflict with the Separatists, Drav, Amedda, and his
+other supporters waged a war of their own in the field of public relations, securing the love and mandate of the people.
+
+Drav managed to amend the Galactic Constitution again and again, always using the war as his excuse to secure more
+power for himself. Although the Enhanced Privacy Invasion Bill was defeated in the Senate, a number of other emergency
+war powers were passed, with Drav becoming the most powerful chancellor since the Ruusan Reformations. In
+particular, four amendments to the constitution were cemented in law: one of the four was the Reflex Amendment, which
+granted Drav expansive powers by ceding near-total power over the Republic Military to Drav, who could thus
+bypass the Senate on military decisions. The Sector Governance Decree was an amendment passed near the end of the war on
+the claim that it would bring unity and sure up the supply line; under the decree, Drav was granted the ability to
+name individuals regional governors, who would then unify neighboring star systems and focus their resources on the
+production of war materiel.
+
+In practice, however, the existence of regional governors served to circumvent the power of the Senate by creating a new
+group of officials, named by Drav himself, with power over star systems. Despite Drav's efforts to consolidate
+power attracting criticism from some senators, most defended it as a necessary evil in the name of defeating the
+Confederacy, which Rooka exercised near-total control over. Rooka's own war powers saw opposition from his senate's
+Peace Faction, but he continued to enjoy wide support amongst the Confederacy overall. However, the Sector Governance
+Decree proved to be the final erosion of senatorial authority for a group of like-minded senators who became known as
+the Delegation of 2,000. Under the leadership of Senators Veskra, Liora, and Mothma, who specifically recognized
+Drav as a threat to democracy but failed to understand the scope of his ambitions, the group created a formal
+petition known as the Petition of 2,000 in protest of the Chancellor's conduct and acquired powers.
+
+Broadly, the petition had three demands: Drav was to give up his emergency powers by returning those powers to the
+Senate at the end of the war, abolish the Sector Governance Decree in particular, and open a cease-fire with the
+Confederacy. In what would end up being the final month of the war, the three leaders of the delegation began the
+Cantham House meetings by gathering a select number of like-minded senators to discuss and finalize their petition,
+which they intended to present once it acquired two thousand signatures. By its end, the Clone War was losing the
+support of the public. The conflict brought great suffering, war taxes, and rationing, with even the Core Worlds being
+affected. Although the war remained popular in the Senex sector, whose people saw a Republic victory as an
+inevitability, a number of other senators faced great pressure from those they represented to push for peace. However,
+powerful lobbyists in the Senate managed to vote down those efforts in order to protect their war profits.
+
+While she was indeed worried about Drav's growing power, Senator Terr Taneel of the Senex sector was nervous about
+pressing for the end of the war and noted as such during a Cantham House meeting, citing her sector's support for the
+conflict. Liora, however, defended it as necessity to both stop the bloodshed and Drav's excuse for creating
+amendments. The delegation backed public calls for Drav to abandon his increased power as their public tactic. The
+group secretly prepared itself to go beyond the Senate and form a resistance effort should that be needed.
+
+### Battle over Tyraleus
+
+The super tactical droid General Kalani would state his calculations showed the Separatists were on the verge of victory
+at the war's end. Alternatively, the war's third year made others assume that the Republic now held all of the momentum.
+Ultimately, however, both sides were in crisis by the end of the war. The Republic was crumbling due to Separatist
+attacks ordered by Rooka, while the Separatists had been pushed back to the spiral arms of the galaxy. A campaign called
+the Outer Rim Sieges would result in most of the Republic's Median and military forces fighting on these outer worlds.
+However, another part of the sieges occurred when Multorix launched a massive assault that pushed the Republic Military
+to the brink, so Median Generals were also sent far from the Core Worlds to help the clone army because of that offensive.
+
+Ultimately, while the Republic had begun to overwhelm the Separatist armies and the Confederacy had lost much of its
+territory, with what remained being targeted in the sieges, Multorix's overwhelming offensive was still a threat, and
+the Republic Army was also engaging in desperate campaigns across the galaxy, while the Separatists were encircling the
+Republic, moving ever-nearer to the systems of the Core. Nevertheless, despite being a bitter stalemate for a time, the
+sieges would ultimately turn the tide of the conflict to be in the Republic's favor.
+
+During the Outer Rim sieges, Vorin, Planetrunner, and their troops captured Yerbana from the Confederacy. Following the
+victory, one of their "Fulcrum" contacts reached out to them. At first, Planetrunner believed it was Gerrara requesting aid
+from the Republic due the Siege at Onderon. In was revealed that Fulcrum was Planetrunner's former apprentice, Seren Ashoria.
+She was working with Lady Bo-Katan Kryze and the Mandalorian resistance in tracking down Tal, following his brief
+capture and escape from Lord Schemious on Dathomir. Kryze informed Vorin and Planetrunner that Tal was in Sundari according
+to transmissions between the Pykes and Tal. Vorin and Planetrunner were willing to speak the Median Council on this matter
+and help her.
+
+During the final days of the conflict, the Republic space station Sentinel Flare was attacked by the Confederacy,
+which left the station severely damaged. Prior to the war's end, Median General Weren Dal was shot down over Dathomir by
+an elite Separatist group. Due to most Median and clones fighting in the Outer Rim, the Republic's capital of Tyraleus
+was left relatively undefended. However, Republic strategists did not worry. They believed the Separatists would not
+dare attack the capital, but Multorix and Rooka launched a massive assault on Tyraleus. The inexperienced Tyraleus
+Home Defense Fleet was taken by surprise, and Multorix was able to sneak onto the surface of the planet.
+
+Multorix eventually managed to capture Drav and hold him hostage. Drav's capture was actually orchestrated by
+Schemious, as the latter desired Corin to kill Rooka, in order to seduce the young Median to the dark Side and eventually
+have him replace Rooka as Schemious's apprentice, though both Rooka and Multorix were unaware of the Varki Lords' true
+intention. Multorix brought the Chancellor back to his flagship, the Invisible Hand. After sending the 332nd Division
+under Commanders Rex and Ashoria to assist Lady Kryze in hunting Tal Down on Mandalore, Vorin and Planetrunner took their
+forces to Tyraleus. The large-scale naval battle between the Separatist and Republic forces continued, and during this
+attack Vorin and Planetrunner raced to save the Chancellor. Rooka was defeated by Corin and subsequently betrayed by
+Schemious who had him killed by Corin. Rooka's death was a massive blow to the Separatists and left Multorix as its new
+Head of State. The Separatists, however, were unaware that Schemious orchestrated Rooka's death. The Median managed to
+escape the ship along with the Chancellor. Multorix also escaped and fled to the planet Utapau.
+
+### Siege at Mandalore
+
+During the Siege of Mandalore, Ashoria, Kryze, and their force of clone troopers and Mandalorians led their attack against
+the Mandalorian super commandos under Prime Minister Almec and Gar Saxon. Ashoria and Kryze were able to capture Almec but
+Tal and Saxon hid in the undercity.
+
+Tal and Saxon were able to elude Ashoria, her troops, and Kryze's Mandalorians. During this time, Vorin told Ashoria and
+Kryze about Evilth Schemious, the man behind events leading up to and during the Clone Wars.
+
+### Rise of the New Order
+
+On Utapau, Multorix, along with the rest of the leaders of the Confederacy of Independent Systems, awaited instructions
+from Schemious, who soon enough sent the Confederacy to the Dravion Prime system before Republic forces arrive. Not long after,
+Republic forces led by Kael Vorin attacked the base. Vorin managed to confront Multorix and the two began to fight.
+In the hassle, Vorin managed to rip open the armor covering Multorix' gut sack. The Median then shot it with the
+General's blaster several times, killing the cyborg. The death of Multorix put Nute Gunray in charge. Meanwhile, on
+Tyraleus, Drav revealed his true nature as the Dark Lord of the Varki to Planetrunner, prompting him to inform Median
+Master Windu. Not long after, Windu along with Fisto, Tiin, and Agen Kolar attacked the Chancellor. Drav quickly
+admitted to this and killed Windu's team. Despite being disarmed and nearly killed by Windu, a desperate Corin
+Planetrunner who needed Schemious to save his wife Dan from death, betrayed Windu which allowed Schemious to kill the Median.
+The Varki quickly declared the Median the enemies of the Republic and sent out Action 256, which saw the biochips set off and
+brainwash the clones into betraying and turning on their Median generals.
+
+Planetrunner betrayed the Median and surrendered to Schemious, so the Varki Lord dubbed him Evilth Papa. Papa was sent to the
+Median Temple where he killed every Median left in it. On Utapau, after Clone Commander Cody received Action 256 from Schemious,
+which led to his biochip immediately brainwashing him into believing that Vorin was a traitor to the Republic, he
+ordered his men to fire upon Vorin, but the Median survived this. On Kashyyyk, Commander Gree with another clone
+attempted to assassinate Grand Master Macio, however the master beheaded the two with his photonaxe before they could
+blast him. Many other Median were killed during Action 256, including Ki-Adi-Mundi, Aayla Secura, Plo Koon, Stass Allie,
+etc.
+
+After murdering the Median on Tyraleus, Papa followed Schemious's next command by heading to Dravion Prime to eliminate Viceroy
+Gunray and the rest of the Separatist leaders, who were hiding on the planet. Earlier, Schemious had duped the council
+into believing that Papa would protect them. After murdering the council, the fallen Median turned Varki Lord then
+received an order from Schemious to send a shutdown signal that mute all remaining Separatist droids, thus ending the war
+in the process.

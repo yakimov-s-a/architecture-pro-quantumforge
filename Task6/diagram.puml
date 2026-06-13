@@ -1,0 +1,20 @@
+@startuml
+title Index Update
+
+skinparam componentStyle rectangle
+
+component "Cron Scheduler\n(every day)" as Cron
+component "Data Source\n(directory)" as DataSource
+component "Update Script" as UpdateScript
+component "Chunks"
+component "Embeddings"
+database "Knowledge Index\n(ChromaDB)" as ChromaDB
+database "Script Log Storage\n(Filesystem)" as LogStorage
+
+Cron --> UpdateScript : Trigger by schedule
+UpdateScript --> DataSource : Read documents
+UpdateScript --> Chunks : Prepare chunks\nand metadata
+UpdateScript --> Embeddings : Prepare embeddings\nfor chunks
+UpdateScript --> ChromaDB : Save embeddings,\nchunks and metadata
+Cron --> LogStorage : Write logs
+@enduml
